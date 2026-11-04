@@ -1,0 +1,48 @@
+/* Reuse the course's typography, borders and buttons. Keep one sign in focus. */
+.sign-study-section{scroll-margin-top:24px}
+#sign-study{border-top:1px solid var(--line);padding-top:24px}
+#sign-batch,#sign-topic{font-size:16px;max-width:100%;width:100%}
+#sign-study>.field+.field{margin-top:18px}
+.sign-position{margin:24px 0 18px;font-variant-numeric:tabular-nums}
+.sign-reading{display:grid;grid-template-columns:180px minmax(0,1fr);gap:28px;align-items:start;margin-bottom:24px}
+.sign-identity{display:grid;justify-items:center;gap:12px;padding:20px 12px;background:var(--surface);border:1px solid var(--line);border-radius:8px}
+.sign-picture{display:block;max-width:100%;flex-shrink:0;background:#fff;overflow:hidden;object-fit:contain}
+.sign-identity .reference-code{margin:0;font-size:13px}
+.sign-explanation{min-width:0}
+.sign-explanation h3{font-size:24px;line-height:1.4;margin:0 0 20px;letter-spacing:-.025em}
+.sign-explanation dl{margin:0}
+.sign-explanation dt{font-size:13px;font-weight:700;color:var(--muted);margin-bottom:6px}
+.sign-explanation dd{margin:0 0 18px;font-size:16px;line-height:1.8}
+.sign-compare,.sign-original{border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:12px 0;margin:24px 0}
+.sign-compare summary,.sign-original summary{min-height:44px;display:flex;align-items:center;gap:10px;cursor:pointer;font-weight:650;font-size:14px;list-style:none}
+.sign-compare summary::before,.sign-original summary::before{content:'+';font-size:22px;font-weight:400}
+.sign-compare[open] summary::before,.sign-original[open] summary::before{content:'−'}
+.sign-pair{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin:16px 0}
+.sign-pair figure{margin:0;padding:18px 12px;background:var(--surface);border:1px solid var(--line);border-radius:8px;display:grid;justify-items:center;align-content:start;gap:12px}
+.sign-pair .sign-picture{width:100px;height:100px}
+.sign-pair figcaption{font-size:13px;text-align:center;line-height:1.5}
+.sign-compare p{margin:16px 0 8px}
+.sign-controls{display:flex;justify-content:space-between;gap:12px;margin:24px 0}
+.sign-shortcuts{display:flex;align-items:center;flex-wrap:wrap;gap:14px}
+.sign-shortcuts .small{max-width:310px}
+.sign-test-image{display:flex;justify-content:center;background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:24px;margin:20px 0}
+.sign-test-image .sign-picture{width:156px;height:156px}
+.sign-context{display:flex;flex-direction:column;align-items:center;gap:14px}
+.sign-context .sign-picture:last-child{width:140px;height:90px}
+.sign-test-help{margin-top:18px}
+.sign-result h3{font-size:24px;line-height:1.4;margin-top:24px}
+.sign-errors{list-style:none;padding:0}
+.sign-errors li{display:flex;align-items:center;gap:16px;border-bottom:1px solid var(--line);padding:14px 0}
+.sign-errors .sign-picture{width:64px;height:64px}
+.sign-errors li>span{flex:1;min-width:0}
+.sign-original img{display:block;max-width:100%;height:auto;margin:18px auto}
+.sign-original figure{margin:24px 0}
+.sign-credit{margin-top:20px;font-size:12px;color:var(--muted)}
+.sign-credit summary{cursor:pointer;min-height:44px;display:flex;align-items:center;text-decoration:underline;text-underline-offset:3px}
+.sign-credit p{margin-top:8px}
+#sign-study :focus-visible{outline:3px solid #65822c;outline-offset:4px}
+@media(max-width:760px){.sign-reading{grid-template-columns:1fr;gap:22px}.sign-identity{width:180px;justify-self:center}.sign-explanation h3{font-size:22px}.sign-controls{flex-wrap:wrap}.sign-controls>.btn{flex:1}.sign-errors li{flex-wrap:wrap}.sign-errors .btn{margin-left:80px}.sign-shortcuts .btn{width:100%}.sign-shortcuts .small{max-width:none}.sign-pair{gap:12px}}
+@media print{.sign-controls,.sign-shortcuts,#sign-batch,.sign-test-help{display:none}.sign-reading,.sign-pair{break-inside:avoid}}
+
+.sign-zoom{font-size:12px;min-height:44px;padding:10px 12px}
+.sign-test-image+.sign-zoom{display:block;margin:0 auto 20px}

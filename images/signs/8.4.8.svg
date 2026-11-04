@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" id="svg2" version="1.1" viewBox="0 0 600 300">
+  <title id="title3006">8.4.8 Вид транспортного средства</title>
+  <defs id="defs4" />
+  <g id="layer1" transform="translate(0,-752.36218)">
+    <rect y="752.36218" x="0" height="300" width="600" id="rect5622" style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" rx="45" ry="45" />
+    <rect y="762.36212" x="10" height="280" width="580" id="rect9537" style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1" rx="35" ry="35" />
+    <path style="opacity:1;color:#000000;fill:#ff8000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" d="m 242.92975,789.8622 c -7.79062,0 -14.0625,6.27187 -14.0625,14.0625 l 0,151.875 142.26563,0 0,-151.875 c 0,-7.79063 -6.27188,-14.0625 -14.0625,-14.0625 z" id="path10414" />
+    <rect y="961.42468" x="229.30664" height="6.5625" width="142.24138" id="rect10416" style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path id="path10418" d="m 229.30666,973.6122 0,41.25 17.8125,0 0,-17.57813 41.51372,0 c 1.35262,5.25703 6.1274,9.14063 11.80659,9.14063 5.67928,0 10.42481,-3.8836 11.77735,-9.14063 l 41.51371,0 0,17.57813 17.8125,0 0,-41.25 -17.8125,0 0,17.57812 -41.51371,0 c -1.35254,-5.25712 -6.09807,-9.14062 -11.77735,-9.14062 -5.67919,0 -10.45397,3.8835 -11.80659,9.14062 l -41.51372,0 0,-17.57812 -17.8125,0 z" style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  </g>
+</svg>

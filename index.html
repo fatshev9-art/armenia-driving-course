@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta name="robots" content="noindex, nofollow">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#183e35">
+  <meta name="description" content="Бесплатный курс ПДД Армении для категории B на русском. Учебник с нуля, официальные вопросы, повторение ошибок и пробный экзамен.">
+  <title>ПДД Армении | Курс категории B</title>
+  <link rel="icon" href="/armenia-driving-course/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/armenia-driving-course/styles.css?v=20261017-signs-v2">
+  <link rel="stylesheet" href="/armenia-driving-course/sign-study.css?v=20261017-signs-v2">
+  <script src="/armenia-driving-course/sign-study.js?v=20261017-signs-v2" defer></script>
+  <script src="/armenia-driving-course/app.js?v=20261017-signs-v2" defer></script>
+</head>
+<body>
+  <a class="skip" href="#content">К содержанию</a>
+  <header class="site-header">
+    <a class="brand" href="#/course" aria-label="ПДД Армении, начало курса"><span class="brand-b" aria-hidden="true">B</span><span>ПДД Армении<small>Учись. Разбирайся. Сдавай.</small></span></a>
+    <nav aria-label="Основная навигация">
+      <a href="#/course" data-nav="course">Курс</a><a href="#/reference" data-nav="reference">Справочник</a><a href="#/practice" data-nav="practice">Практика</a><a href="#/exam" data-nav="exam">Экзамен</a><a href="#/progress" data-nav="progress">Прогресс</a><a href="#/sources" data-nav="sources">Источники</a>
+    </nav>
+    <span class="header-tag">B / русский</span>
+  </header>
+  <main id="content" tabindex="-1"><div class="loading" role="status">Загружаю учебник и официальные вопросы…</div></main>
+  <div id="notice" class="notice" role="status" aria-live="polite" hidden></div>
+  <input id="import-file" type="file" accept="application/json,.json" hidden aria-label="Файл сохранённого прогресса">
+  <dialog id="diagram-dialog" class="diagram-dialog" aria-labelledby="diagram-title" aria-describedby="diagram-help">
+    <div class="diagram-toolbar"><h2 id="diagram-title">Официальная схема</h2><button type="button" class="btn" data-action="zoom-close">Закрыть</button></div>
+    <p id="diagram-help" class="small muted">Прокручивай лист пальцем или клавишами со стрелками. Увеличь масштаб, чтобы рассмотреть номера и детали.</p>
+    <div class="diagram-controls"><button type="button" class="btn" data-action="zoom-minus" aria-label="Уменьшить схему">−</button><output id="diagram-scale" aria-live="polite">100%</output><button type="button" class="btn" data-action="zoom-plus" aria-label="Увеличить схему">+</button></div>
+    <div class="diagram-viewport" tabindex="0" aria-label="Лист схемы с прокруткой"><img id="diagram-large" alt=""></div>
+  </dialog>
+  <footer class="site-footer"><span>Самостоятельная подготовка · категория B</span><a href="#/sources">Источники проверены 10 октября 2026</a><span>Прогресс хранится в этом браузере</span></footer>
+  <noscript><p>Для заданий и сохранения прогресса включи JavaScript. Официальные материалы: <a href="https://roadpolice.am/ru/viv-exam">roadpolice.am</a>.</p></noscript>
+</body>
+</html>

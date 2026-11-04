@@ -1,0 +1,3114 @@
+{
+  "assets": [
+    {
+      "code": "1.1",
+      "path": "/armenia-driving-course/images/signs/1.1.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.1.svg",
+      "author": "Юкатан",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.1.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "4bc3cee676437897d7ef925175e3a391251a882054f9fdab4df3d7ba5b28da35"
+    },
+    {
+      "code": "1.2",
+      "path": "/armenia-driving-course/images/signs/1.2.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.2.svg",
+      "author": "Юкатан",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.2.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "e4fdfa9d1bc793e083aadb20b926431eead02e6875578e39cb7e0b78366ef119"
+    },
+    {
+      "code": "1.3.1",
+      "path": "/armenia-driving-course/images/signs/1.3.1.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.3.1.svg",
+      "author": "Meddoc13",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.3.1.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "08aa0439d2b628917f48498931db43995e738b780eeeb64013315d0c29a6027f"
+    },
+    {
+      "code": "1.3.2",
+      "path": "/armenia-driving-course/images/signs/1.3.2.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.3.2.svg",
+      "author": "Meddoc13",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.3.2.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "91e757dda786c2c85b86752f1ad3afe02097533f2c0f1d0e20a7b28e3314c6e9"
+    },
+    {
+      "code": "1.4.1",
+      "path": "/armenia-driving-course/images/signs/1.4.1.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-1-4-1-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "8ff3c8aacfc0aab84b851779a2a7fa26e54c612a82170cf6e1b27609c62338f4"
+    },
+    {
+      "code": "1.4.2",
+      "path": "/armenia-driving-course/images/signs/1.4.2.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-1-4-2-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "b6aa9f09f4bcdf88c68d56b9862a6c37b5a220822611fb936d33419ab28a9e76"
+    },
+    {
+      "code": "1.4.3",
+      "path": "/armenia-driving-course/images/signs/1.4.3.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.4.3.svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "13ca08ad77970855aef4e85ac009886db8cb1176608dd8e396a46de38e1c9988"
+    },
+    {
+      "code": "1.4.4",
+      "path": "/armenia-driving-course/images/signs/1.4.4.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-1-4-4-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "b66f4dc27a468ae264b8982bc164c9b2f5b71ee4449576e13d49d7a4f8f93dc6"
+    },
+    {
+      "code": "1.4.5",
+      "path": "/armenia-driving-course/images/signs/1.4.5.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-1-4-5-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "24d21d38d93851058754f8f940c55bfa36cec48ad985f1a440f7db29e3d0e1c5"
+    },
+    {
+      "code": "1.4.6",
+      "path": "/armenia-driving-course/images/signs/1.4.6.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-1-4-6-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "f138d06ff012c493b58129d9100573a3215305fc3bfe3a31f3c1290ab3cbbd26"
+    },
+    {
+      "code": "1.5",
+      "path": "/armenia-driving-course/images/signs/1.5.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.5.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "b8a077caf30e8199a106bfad28e9fecbd55ee5fbf6f937bb928cd07099877387"
+    },
+    {
+      "code": "1.6",
+      "path": "/armenia-driving-course/images/signs/1.6.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.6.svg",
+      "author": "Юкатан",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.6.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "a5e45b42da552544258f7caf1850deb6990a35a9459607dc3f9c14ca4ba1122a"
+    },
+    {
+      "code": "1.7",
+      "path": "/armenia-driving-course/images/signs/1.7.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.7.svg",
+      "author": "Юкатан",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.7.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "6cdb8287c9b67424dbe60dcd5684986cfb1e2b68dd2581dabbfed885a6fc522f"
+    },
+    {
+      "code": "1.8",
+      "path": "/armenia-driving-course/images/signs/1.8.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.8.svg",
+      "author": "Юкатан",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.8.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "a0def5cbe9602ab89929ce30cc9ebd5875569163d1f9b27cbc94937e7fb0f0cb"
+    },
+    {
+      "code": "1.9",
+      "path": "/armenia-driving-course/images/signs/1.9.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.9.svg",
+      "author": "Юкатан",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.9.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "8a03eb230c3cfc4d20ea0b795fae2dbb6d11991d952865723a7e4c92dc45b172"
+    },
+    {
+      "code": "1.10",
+      "path": "/armenia-driving-course/images/signs/1.10.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.10.svg",
+      "author": "Юкатан",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.10.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "266f14960a706b05ad3e298001a81aa83de8e1fb161dbcf831fd2d0b1ca0885d"
+    },
+    {
+      "code": "1.11.1",
+      "path": "/armenia-driving-course/images/signs/1.11.1.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.11.1.svg",
+      "author": "Юкатан",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.11.1.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "a6198bceab65cc8730c98019ed21e8d00e89e129e663fecacf165cffee6cc259"
+    },
+    {
+      "code": "1.11.2",
+      "path": "/armenia-driving-course/images/signs/1.11.2.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.11.2.svg",
+      "author": "Юкатан",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.11.2.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "3e41e3e8b3d18972beb11437426e8ad29c655f0083594489482bfb7585124505"
+    },
+    {
+      "code": "1.12.1",
+      "path": "/armenia-driving-course/images/signs/1.12.1.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.12.1.svg",
+      "author": "Юкатан",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.12.1.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "da2dcaf6c6f2d007dc49908de54bef4119700aad3ecf3ca30913d6b0f1d823d6"
+    },
+    {
+      "code": "1.12.2",
+      "path": "/armenia-driving-course/images/signs/1.12.2.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.12.2.svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "34389b659d306db4ea3f6aafedff6f6d842ccdf354e5ee68991998e47b5ba2fb"
+    },
+    {
+      "code": "1.13",
+      "path": "/armenia-driving-course/images/signs/1.13.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.13.svg",
+      "author": "Юкатан",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.13.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "8ae1ff4db26009e8ac61b8a60ea40c00f35f74c845ad29d2ca3c4da8dd751ed9"
+    },
+    {
+      "code": "1.14",
+      "path": "/armenia-driving-course/images/signs/1.14.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.14.svg",
+      "author": "Юкатан",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.14.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "f4940f5155d153bd51d09afed629c3339f50deb357cdd0bd16166637d299c0f6"
+    },
+    {
+      "code": "1.15",
+      "path": "/armenia-driving-course/images/signs/1.15.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.15.svg",
+      "author": "Юкатан",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.15.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "406c235c94393cb6f2b1ffcbc6e91e177c021fcb58f418f02c842552ca5012cf"
+    },
+    {
+      "code": "1.16",
+      "path": "/armenia-driving-course/images/signs/1.16.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.16.svg",
+      "author": "Юкатан",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.16.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "fc73d622521a70ba49efada36428cdeae651efca72996f345a6b100f4c81bcdb"
+    },
+    {
+      "code": "1.17",
+      "path": "/armenia-driving-course/images/signs/1.17.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.17.svg",
+      "author": "Юкатан",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.17.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "18fd96b1cae4feaf7b2225984ddcfb4b29acfbfe7fe1a8cdfe0ee1b555087d12"
+    },
+    {
+      "code": "1.18",
+      "path": "/armenia-driving-course/images/signs/1.18.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.18.svg",
+      "author": "Юкатан",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.18.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "90eda980beb2b2f4afa5be2a1d8953030b1a1760db83b9d9dc9b19742a3d20f6"
+    },
+    {
+      "code": "1.19",
+      "path": "/armenia-driving-course/images/signs/1.19.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.19.svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "d06812d66a0291cdf0613448961057616c4cd3763343b6af0cf7d21d20afdd7b"
+    },
+    {
+      "code": "1.20.1",
+      "path": "/armenia-driving-course/images/signs/1.20.1.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.20.1.svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "7805cc98afa9d797baf213d2076f4d87c208e7158baff9bd4db96813db23a065"
+    },
+    {
+      "code": "1.20.2",
+      "path": "/armenia-driving-course/images/signs/1.20.2.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.20.2.svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "f9709184f4f7b6dbb0f67c9f105de13ca8f4a6adf165d4d5879696c103aa51c2"
+    },
+    {
+      "code": "1.20.3",
+      "path": "/armenia-driving-course/images/signs/1.20.3.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.20.3.svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "bd34239adb34b1ad1fff912d2b0d1a75a02d91a3aea4c5770444eed7e18db3ee"
+    },
+    {
+      "code": "1.21",
+      "path": "/armenia-driving-course/images/signs/1.21.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.21.svg",
+      "author": "Юкатан",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.21.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "529191401d4ec06c2073ad034035fe87a0a0e5ed877aefd5bddbf9a5a42d422f"
+    },
+    {
+      "code": "1.22",
+      "path": "/armenia-driving-course/images/signs/1.22.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.22.svg",
+      "author": "Юкатан",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.22.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "2430f34820a6b23f034b47fb470a121fc9ad3f9b2588f1e92c35a7c76279f2e7"
+    },
+    {
+      "code": "1.23",
+      "path": "/armenia-driving-course/images/signs/1.23.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.23.svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "d95ebe7bbdded1453414144c0adaa8327ba742c0cc4bc5464e5013f93d17a607"
+    },
+    {
+      "code": "1.24",
+      "path": "/armenia-driving-course/images/signs/1.24.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.24.svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "c149d7d1f0a0e95cf15c35b273f5faa020b67d19eba6a8d6b3b8cf6448c66978"
+    },
+    {
+      "code": "1.25",
+      "path": "/armenia-driving-course/images/signs/1.25.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.25.svg",
+      "author": "Nikolaev ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Жёлтый фон заменён белым для обычного варианта знака.",
+      "sha256": "ad67dcf080a5974367144800505d2730f376302e29ab771ddc6cf5d86a3024aa"
+    },
+    {
+      "code": "1.26",
+      "path": "/armenia-driving-course/images/signs/1.26.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.26.svg",
+      "author": "Юкатан",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.26.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "a8307fb31ed1c9978e7137836cf56f9811dc7ad59ce7fba3b405c5a344215222"
+    },
+    {
+      "code": "1.27",
+      "path": "/armenia-driving-course/images/signs/1.27.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.27.svg",
+      "author": "Юкатан",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.27.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "e8c3cc244d58b682822220456c34036e92803b17ec7b170b8b3a114190347faf"
+    },
+    {
+      "code": "1.28",
+      "path": "/armenia-driving-course/images/signs/1.28.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.28.svg",
+      "author": "Юкатан",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.28.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "a4f5e31b9a6057e49aa8a220024e2039c6e8d97151960e2288efdda5cb090570"
+    },
+    {
+      "code": "1.29",
+      "path": "/armenia-driving-course/images/signs/1.29.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.29.svg",
+      "author": "Юкатан",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.29.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "2a4c9653997a265daf5d001abe27fff1bc5189f3a2977e70088991883e45b85c"
+    },
+    {
+      "code": "1.30",
+      "path": "/armenia-driving-course/images/signs/1.30.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.30.svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "6abb4c52ced356612097937f0c4b689f1e4b2284e1a5699496eb8e919271dd23"
+    },
+    {
+      "code": "1.31",
+      "path": "/armenia-driving-course/images/signs/1.31.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.31.svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "56574b0fcff49b8b4b1132af9b07d287b3d41ce9dc76f6d2d70704dcd000d6e9"
+    },
+    {
+      "code": "1.32",
+      "path": "/armenia-driving-course/images/signs/1.32.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.32.svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "ca2a2b941db66de4563b5bacdaade26d381b3db374e0b18c0672a1dc877246e2"
+    },
+    {
+      "code": "1.33",
+      "path": "/armenia-driving-course/images/signs/1.33.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.33.svg",
+      "author": "Юкатан",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.33.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "94fd42c2aee4b1aec34bf16cb10fc8e89caa3fb55adae15de6a3037bedee1114"
+    },
+    {
+      "code": "1.34.1",
+      "path": "/armenia-driving-course/images/signs/1.34.1.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.34.1_A.svg",
+      "author": "Papa November",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.34.1_A.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "ada9f37fe97c45ad70adedff25e105bdc4d34f6e50fc143535ac0680a5382429"
+    },
+    {
+      "code": "1.34.2",
+      "path": "/armenia-driving-course/images/signs/1.34.2.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.34.2_A.svg",
+      "author": "Aleksej Tikhin",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.34.2_A.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "c8c1027dc2c8f5e02fa7532ff6b9adfa6bcb21ccab15c4033e815bf4a6ff21c0"
+    },
+    {
+      "code": "1.34.3",
+      "path": "/armenia-driving-course/images/signs/1.34.3.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.34.3_A.svg",
+      "author": "Aleksej Tikhin",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.34.3_A.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "9f5e1474850778e458e4e4810d4101d11fc86769b29f0f3d91c98f1d798309fd"
+    },
+    {
+      "code": "1.35",
+      "path": "/armenia-driving-course/images/signs/1.35.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.35.svg",
+      "author": "Vasilii Aksenov",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_1.35.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "12f3c441e3bb7523a5d97d8d20ce7b5ad199345a41294e040a69fa3b3870811e"
+    },
+    {
+      "code": "2.1",
+      "path": "/armenia-driving-course/images/signs/2.1.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-2-1-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "1dfd856ffba2d1fbf43ea9197daf345de9230112c84ef2b034b12c9f6bbc100c"
+    },
+    {
+      "code": "2.2",
+      "path": "/armenia-driving-course/images/signs/2.2.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-2-2-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "e0cffafc720c7aedb1c11cf3315253bc4cb5b862c1c9398296e6ca7fa1927cb5"
+    },
+    {
+      "code": "2.4",
+      "path": "/armenia-driving-course/images/signs/2.4.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-2-4-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "2425f64efb89da4ab914e5aad858eb8dca91b75859a7ab4d2ccafbdec88f6d08"
+    },
+    {
+      "code": "2.5",
+      "path": "/armenia-driving-course/images/signs/2.5.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed the Armenian bilingual STOP sign from official plate pdd-03.webp. Added Armenian KANG above STOP; all letters are vector outlines, with no external font dependency.",
+      "sha256": "45f02d90e1d1fba3c769fddeb3d338cd0d07acb64e8f109f13bb36783ad27845"
+    },
+    {
+      "code": "2.6",
+      "path": "/armenia-driving-course/images/signs/2.6.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-2-6-svg",
+      "author": "User:Flrn",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "eacd8b59902b8f33eb852bb74c53e9393389696255c9b03a0b5e38b951ff8703"
+    },
+    {
+      "code": "2.7",
+      "path": "/armenia-driving-course/images/signs/2.7.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-2-7-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "f08dd42d84fa02657c30e623cda563f7da52733e59856f85e8a9e00fe4e39344"
+    },
+    {
+      "code": "2.3.1",
+      "path": "/armenia-driving-course/images/signs/2.3.1.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-2-3-1-svg",
+      "author": "Юкатан",
+      "license": "Public domain",
+      "licenseUrl": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-2-3-1-svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "1b8d9dd144918d6eccc987f5e323c76d7880985ca6c9daa393e30c5fc8aa7190"
+    },
+    {
+      "code": "2.3.2",
+      "path": "/armenia-driving-course/images/signs/2.3.2.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-2-3-2-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "18dfede66f4941ae41124957c352bb28391caa315693ba82ae6d42ecb60ad83c"
+    },
+    {
+      "code": "2.3.3",
+      "path": "/armenia-driving-course/images/signs/2.3.3.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-2-3-3-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "0b206829b609b79ed16c1fbba697d13643c61d327e42bfa157f394213a425a03"
+    },
+    {
+      "code": "2.3.4",
+      "path": "/armenia-driving-course/images/signs/2.3.4.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-2-3-4-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "39ca10068a4c09d8e830700a871295a1d8ce2411823bc07fc052b7a0a11036d6"
+    },
+    {
+      "code": "2.3.5",
+      "path": "/armenia-driving-course/images/signs/2.3.5.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-2-3-5-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "01fcd00f1159f3a6b76d20214659f81a7570bd5cd4f0689e97903c062a1c7aa4"
+    },
+    {
+      "code": "2.3.6",
+      "path": "/armenia-driving-course/images/signs/2.3.6.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-2-3-6-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "527210288a977b07d60aebf51a22de455b7a6c3fd5ea9f2b8ee7aeae41de421e"
+    },
+    {
+      "code": "2.3.7",
+      "path": "/armenia-driving-course/images/signs/2.3.7.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-2-3-7-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "a133e14e284281f63d5a5d46c54544f57fac301f91f0f39454f550fe52afdbef"
+    },
+    {
+      "code": "2.3.8",
+      "path": "/armenia-driving-course/images/signs/2.3.8.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-2-3-1-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Kept the Wikimedia triangle border; reconstructed the Armenian two-side-road junction symbol from official plate pdd-03.webp. Both branch sides and order are explicitly matched to the Armenian code.",
+      "sha256": "fe1b7c7c3288978acf7934afef6df7ad4d3caa2fc4e6219025d63ede8b6b5f5f"
+    },
+    {
+      "code": "2.3.9",
+      "path": "/armenia-driving-course/images/signs/2.3.9.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-2-3-1-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Kept the Wikimedia triangle border; reconstructed the Armenian two-side-road junction symbol from official plate pdd-03.webp. Both branch sides and order are explicitly matched to the Armenian code.",
+      "sha256": "f17c7332baaa05cd3ccfd6893dda26b434ba3c34fefcf7e3cb1bab4c551e6379"
+    },
+    {
+      "code": "2.3.10",
+      "path": "/armenia-driving-course/images/signs/2.3.10.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-2-3-1-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Kept the Wikimedia triangle border; reconstructed the Armenian two-side-road junction symbol from official plate pdd-03.webp. Both branch sides and order are explicitly matched to the Armenian code.",
+      "sha256": "d1f0a8d3e0c25047ab5226dfb59deb550148abdf50e5142d8280491d725b590d"
+    },
+    {
+      "code": "2.3.11",
+      "path": "/armenia-driving-course/images/signs/2.3.11.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-2-3-1-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Kept the Wikimedia triangle border; reconstructed the Armenian two-side-road junction symbol from official plate pdd-03.webp. Both branch sides and order are explicitly matched to the Armenian code.",
+      "sha256": "e5b2c0ae477840ce4a80c265910466e40d917f2c685dca9623b2d79b091b0d4d"
+    },
+    {
+      "code": "3.1",
+      "path": "/armenia-driving-course/images/signs/3.1.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-3-1-svg",
+      "author": "User:Flrn",
+      "license": "Public domain",
+      "licenseUrl": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-3-1-svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "b42185b82df3b06e70482371232111727e0e71086f9db16ac5b5de06db46189b"
+    },
+    {
+      "code": "3.2",
+      "path": "/armenia-driving-course/images/signs/3.2.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-3-2-svg",
+      "author": "Flrn",
+      "license": "Public domain",
+      "licenseUrl": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-3-2-svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "d128c7e29ef3fdf8bdc65f4e2068f49c317e399f187ffdc76262a00a5b031809"
+    },
+    {
+      "code": "3.3",
+      "path": "/armenia-driving-course/images/signs/3.3.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-3-3-svg",
+      "author": "User:Flrn",
+      "license": "Public domain",
+      "licenseUrl": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-3-3-svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "130bad6094d1a6dbf9f0b6dfcddcb3f84d58d67a2a589e32163066ed92896f21"
+    },
+    {
+      "code": "3.9",
+      "path": "/armenia-driving-course/images/signs/3.9.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-3-9-svg",
+      "author": "User:Flrn",
+      "license": "Public domain",
+      "licenseUrl": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-3-9-svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "26e7e6f6bddc23975bffd675524e6358b460873866fab164543c4aef546d7abd"
+    },
+    {
+      "code": "3.10",
+      "path": "/armenia-driving-course/images/signs/3.10.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-3-10-svg",
+      "author": "User:Flrn",
+      "license": "Public domain",
+      "licenseUrl": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-3-10-svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "44ca1a07b19e5632773b053f8fb61000a1999b7f045c45cbe1efafe054b2cbfb"
+    },
+    {
+      "code": "3.4",
+      "path": "/armenia-driving-course/images/signs/3.4.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-3-4-svg",
+      "author": "User:Flrn",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Kept the licensed Wikimedia truck drawing; replaced only the Russian tonne label with the Armenian 8 tonne example from the official plate.",
+      "sha256": "3af4745acb62c9b0127ea8a5f7016777a1171603e2e8fbea8bcead97695c856b"
+    },
+    {
+      "code": "3.5",
+      "path": "/armenia-driving-course/images/signs/3.5.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-3-5-svg",
+      "author": "User:Flrn",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "46921f02cadc2803878cd2a173dcc43fbc157d1edec831ca7989ff22180ce7df"
+    },
+    {
+      "code": "3.6",
+      "path": "/armenia-driving-course/images/signs/3.6.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-3-6-svg",
+      "author": "User:Flrn",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "b12a00a663445f69d6a74b6ae85641641b77f614b6c3f5e7558cb14e363b1e2a"
+    },
+    {
+      "code": "3.7",
+      "path": "/armenia-driving-course/images/signs/3.7.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-3-7-svg",
+      "author": "User:Flrn",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "20e8c7d50bcf6b406342e2b741cb9b6faf43f540a7c409b6b60722b1b111724d"
+    },
+    {
+      "code": "3.8",
+      "path": "/armenia-driving-course/images/signs/3.8.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-3-8-svg",
+      "author": "User:Flrn",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "7718b3e9aaa168d428245ead2da48594b533e8ec29e88a9c0843780c575b5444"
+    },
+    {
+      "code": "3.11",
+      "path": "/armenia-driving-course/images/signs/3.11.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Vector reconstruction of the official Armenian numeric example and Armenian tonne unit, with no raster or external font.",
+      "sha256": "335a8d893058959a900a3ff509951251701236ce16f73166e6ab4a09017868c8"
+    },
+    {
+      "code": "3.12",
+      "path": "/armenia-driving-course/images/signs/3.12.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Vector reconstruction of the official Armenian 6 tonne axle-load example; glyphs and axle are vectors.",
+      "sha256": "0dffaf0350afc6683561f101885962d1effc5e3a3e1b00a2646e1c02efeb5db8"
+    },
+    {
+      "code": "3.13",
+      "path": "/armenia-driving-course/images/signs/3.13.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed the Armenian official 3.5 metre height example, using the original comma decimal and Armenian metre unit instead of the foreign 4.5 metre example.",
+      "sha256": "c817f110cd40483fa69ad593e645a4ccb81f33620ed2ff7297fd08bfb9d2bd03"
+    },
+    {
+      "code": "3.14",
+      "path": "/armenia-driving-course/images/signs/3.14.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed the official Armenian width example 2.7 metres, including both inward arrows and Armenian metre glyph.",
+      "sha256": "2d16b4df32ab9c7e60f59c03d621cd9eb3b7549fd61ccb0f266a32b715d26aab"
+    },
+    {
+      "code": "3.15",
+      "path": "/armenia-driving-course/images/signs/3.15.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Vector reconstruction of the Armenian 10 metre length-limit example with truck silhouette, outward arrows, and Armenian unit.",
+      "sha256": "93879c1627f069f4424d4cf8edb2ea14416173fda9c9472a602b7d844d750a01"
+    },
+    {
+      "code": "3.16",
+      "path": "/armenia-driving-course/images/signs/3.16.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-3-16-svg",
+      "author": "User:Flrn",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Kept the licensed Wikimedia vehicle silhouettes; reconstructed only the numeric label as the Armenian official 70 metre example.",
+      "sha256": "2d361d96f1a053e6ad54a739ab4f4445b6e36243431d8b9dc32ec9a100503b57"
+    },
+    {
+      "code": "3.18.1",
+      "path": "/armenia-driving-course/images/signs/3.18.1.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-3-18-1-svg",
+      "author": "Nikolaev ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "489fd5d7bf7f81f0619cf01d714f82a1b313cebe9af5c2082e08fefd29bbee54"
+    },
+    {
+      "code": "3.18.2",
+      "path": "/armenia-driving-course/images/signs/3.18.2.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-3-18-2-svg",
+      "author": "Nikolaev ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "6af524018509974ba423ac228ff92cc79b17a9c4c09f6b49d1b1b8916edd23bd"
+    },
+    {
+      "code": "3.19",
+      "path": "/armenia-driving-course/images/signs/3.19.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-3-19-svg",
+      "author": "Nikolaev ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "238e4e26ad8aa511e38ba8ddce854e85a3766edb164ffaf48a22470e8d0e77a6"
+    },
+    {
+      "code": "3.20",
+      "path": "/armenia-driving-course/images/signs/3.20.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-3-20-svg",
+      "author": "3.20.png: User:Юкатан derivative work: Rudloff ( talk )",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "a3f64dff8338503963d24d29c138544d690e52e3f31321abdb7e9a93b566da70"
+    },
+    {
+      "code": "3.21",
+      "path": "/armenia-driving-course/images/signs/3.21.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-3-21-svg",
+      "author": "3.21.png : User:Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "4b83dd19c3156c38f580d5f5435c2aa3789149fb86f81cb37214cb1cf1b1abf8"
+    },
+    {
+      "code": "3.22",
+      "path": "/armenia-driving-course/images/signs/3.22.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-3-22-svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "4129691d8b4b18d6c380084ce66f310f6ade3db7bf8c49b4015cc7f5836af3a9"
+    },
+    {
+      "code": "3.23",
+      "path": "/armenia-driving-course/images/signs/3.23.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-3-23-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "199472af6888044cef07ad50fb250461ad43eb8765f2e69529dbca1bf26dba31"
+    },
+    {
+      "code": "3.24",
+      "path": "/armenia-driving-course/images/signs/3.24.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-3-24-svg",
+      "author": "User:Flrn",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "2604285d356e43926b952135b76f08730dc5d56899f3c14917b43b776f24e13e"
+    },
+    {
+      "code": "3.25",
+      "path": "/armenia-driving-course/images/signs/3.25.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-3-25-svg",
+      "author": "Nikolaev_ec06ffa5 , font by Alexander Sapozhnikov",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "b7d75b926cff39de6e74a4d5c7dc6bff9c95bce4154f5a63275c9ddcde86b14d"
+    },
+    {
+      "code": "3.26",
+      "path": "/armenia-driving-course/images/signs/3.26.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-3-26-svg",
+      "author": "User:Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "5b08dbb109f311813f493479c2624a63b1c783572c710877182f9668d9198332"
+    },
+    {
+      "code": "3.31",
+      "path": "/armenia-driving-course/images/signs/3.31.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-3-31-svg",
+      "author": "Original: Юкатан Vector: Rudloff",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "15d9c984453717aaeb70384e4a1f33c784494abcafc2ca443d1a9530a02aa621"
+    },
+    {
+      "code": "3.27",
+      "path": "/armenia-driving-course/images/signs/3.27.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-3-27-svg",
+      "author": "3.27.png: User:Юкатан derivative work: Bea o",
+      "license": "Public domain",
+      "licenseUrl": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-3-27-svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "537aa06a69d718dae75c89470d8f85ec64161b4c54c6cf37dea3fade73e0fdcf"
+    },
+    {
+      "code": "3.28",
+      "path": "/armenia-driving-course/images/signs/3.28.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-3-28-svg",
+      "author": "3.28.png: User:Юкатан derivative work: Bea o",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "1be0836ba4d1a820d899468ffd4919f5b81d18e5488ef141f36df0c87925ff15"
+    },
+    {
+      "code": "3.29",
+      "path": "/armenia-driving-course/images/signs/3.29.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-3-29-svg",
+      "author": "3.29.png : User:Юкатан derivative work: Bea o",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "cd8a97b8f729907b31f45f627d7ed4d2a4d5602a080122ae2d7d4d21d45a7a7b"
+    },
+    {
+      "code": "3.30",
+      "path": "/armenia-driving-course/images/signs/3.30.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-3-30-svg",
+      "author": "3.30.png : User:Юкатан derivative work: Bea o",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "ff2a41d844488683953987d6132e34709035e96cb221e4d39561d7dde54268a8"
+    },
+    {
+      "code": "3.17.1",
+      "path": "/armenia-driving-course/images/signs/3.17.1.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Exact Armenian sign wording transcribed from official plate and cross-checked with ARLIS names. Reconstructed as vector outlines; no Russian words, raster, or external fonts.",
+      "sha256": "2a736e13d7fd45e25c73b44a2d907ccf535cecefe25d488cfb4216485af0fdfc"
+    },
+    {
+      "code": "3.17.2",
+      "path": "/armenia-driving-course/images/signs/3.17.2.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Exact Armenian sign wording transcribed from official plate and cross-checked with ARLIS names. Reconstructed as vector outlines; no Russian words, raster, or external fonts.",
+      "sha256": "2b4ebd86dba6b09a828cb7437a9eb71ebb72f9e460776bdbd4b042a03a10244b"
+    },
+    {
+      "code": "3.17.3",
+      "path": "/armenia-driving-course/images/signs/3.17.3.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Exact Armenian sign wording transcribed from official plate and cross-checked with ARLIS names. Reconstructed as vector outlines; no Russian words, raster, or external fonts.",
+      "sha256": "b9082308bb3553eb38f711b5bdfcf6f293236ee6ce808f40319014a6080ac72d"
+    },
+    {
+      "code": "3.32",
+      "path": "/armenia-driving-course/images/signs/3.32.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-3-32-svg",
+      "author": "3.32.png: User:Юкатан derivative work: Bea o",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "68db97c3c3f3a091e2e327e9211f7458bd5b48ad13be94a346b7d6c72dbf1cbd"
+    },
+    {
+      "code": "3.33",
+      "path": "/armenia-driving-course/images/signs/3.33.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-3-33-svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "c2e357f16b7a9c71a8e2ad6d60ec2f2d17777447720e52b70fd8d75c4f8aaed7"
+    },
+    {
+      "code": "4.1.1",
+      "path": "/armenia-driving-course/images/signs/4.1.1.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-4-1-1-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "d1a45bcaec4a9da1891b609a2bdbf068a2456bb587d1beb5e457ccb633739256"
+    },
+    {
+      "code": "4.1.2",
+      "path": "/armenia-driving-course/images/signs/4.1.2.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-4-1-2-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "bb4edf05abde7e56c2fad373113bb0fa802cacfd70fa23f44bb076b7f39cbcc5"
+    },
+    {
+      "code": "4.1.3",
+      "path": "/armenia-driving-course/images/signs/4.1.3.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-4-1-3-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "2b96f923815db86ae29d440d80a79828ccc49abb76828e5a2e54330580453513"
+    },
+    {
+      "code": "4.1.4",
+      "path": "/armenia-driving-course/images/signs/4.1.4.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-4-1-4-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "d7d29619fa60e18dbaa29644a8cd4113cbd44cad59978175bcc182306d117243"
+    },
+    {
+      "code": "4.1.5",
+      "path": "/armenia-driving-course/images/signs/4.1.5.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-4-1-5-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "8b238ce8ca2c43be24c77e5fd3085d34c2aef926725b884a43ae4e6622b6f8b6"
+    },
+    {
+      "code": "4.1.6",
+      "path": "/armenia-driving-course/images/signs/4.1.6.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-4-1-6-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "246d1fb03c6230e1b8e1f4f6a713bf66a34fe065fa4fba5e449eff268f1c04f3"
+    },
+    {
+      "code": "4.2.1",
+      "path": "/armenia-driving-course/images/signs/4.2.1.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-4-2-1-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "1eed8be098e129ae7c3a95dc77dd1b81abac5eb89ddf681329526f438e3f323e"
+    },
+    {
+      "code": "4.2.2",
+      "path": "/armenia-driving-course/images/signs/4.2.2.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-4-2-2-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "78c12e31efb07c4667a114a837963c4ff45c3936eaf0a54284d8c7faf7d1e003"
+    },
+    {
+      "code": "4.2.3",
+      "path": "/armenia-driving-course/images/signs/4.2.3.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-4-2-3-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "8fae4de6c4cd44b10ac3c1e18441bd62f12fd86b2e3b934add6e181356834406"
+    },
+    {
+      "code": "4.3",
+      "path": "/armenia-driving-course/images/signs/4.3.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-4-3-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "3cc3ed15f92af316fd864851c632eb06356a5a6c245f2530efed6e8a7d655988"
+    },
+    {
+      "code": "4.4.1",
+      "path": "/armenia-driving-course/images/signs/4.4.1.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-4-4-1-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "aeba3f9f22d0ec99a41dd5225b8a1ac3ca94b5f223cac455c3e252839a4bf2d6"
+    },
+    {
+      "code": "4.4.2",
+      "path": "/armenia-driving-course/images/signs/4.4.2.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-4-4-2-svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "0e7d6ba891dcc7a1cb1cd04072a176840efae12f2f258f713b574c63d3efb403"
+    },
+    {
+      "code": "4.5.1",
+      "path": "/armenia-driving-course/images/signs/4.5.1.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-4-5-1-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "9cd6d98b5c735e1e9afe80f1ecca8aa5b058a4a79ae5898c0cf011d9a93c2167"
+    },
+    {
+      "code": "4.5.2",
+      "path": "/armenia-driving-course/images/signs/4.5.2.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-4-5-2-svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "d8f07ae74ad43cfd8d01c3fbe06aeff5e8bdde2dae1ca2020c01b6b020030ba7"
+    },
+    {
+      "code": "4.5.3",
+      "path": "/armenia-driving-course/images/signs/4.5.3.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-4-5-3-svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "5f9d4ce89fd14842ab5a273b37140cf353ae1389334a4748ca06f52cb6d12e4d"
+    },
+    {
+      "code": "4.5.4",
+      "path": "/armenia-driving-course/images/signs/4.5.4.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-4-5-4-svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "0af987888e8ffbf8c7279f58188fa2ddcf1bf06bdd71a2c89c36c49cd9cd624e"
+    },
+    {
+      "code": "4.5.5",
+      "path": "/armenia-driving-course/images/signs/4.5.5.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-4-5-5-svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "787123b4bd75cf2008e1e35322d319384309ac47df4712641b1feac2c4662c74"
+    },
+    {
+      "code": "4.5.6",
+      "path": "/armenia-driving-course/images/signs/4.5.6.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-4-5-6-svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "ad36d7dd645d6daa4eaebaa2fd515e281399d628861117c2b3423eb52fa3d707"
+    },
+    {
+      "code": "4.5.7",
+      "path": "/armenia-driving-course/images/signs/4.5.7.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-4-5-7-svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "ca70759477386cb2c27f3b829a0beb93875d0794c4f85c363fcd0e61d7a49ee6"
+    },
+    {
+      "code": "4.6",
+      "path": "/armenia-driving-course/images/signs/4.6.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-4-6-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "f73743ba2b03fbc4142d08d26f0e871c1d1e9adb4041d20d0ebab16727ff156c"
+    },
+    {
+      "code": "4.7",
+      "path": "/armenia-driving-course/images/signs/4.7.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-4-7-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "b905e4b8cb4cdef553dca97db845812846317513b359b3b4d6d2b8c771970b53"
+    },
+    {
+      "code": "4.9.1",
+      "path": "/armenia-driving-course/images/signs/4.9.1.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Manual vector reconstruction of the Armenian tyre with snow chains; end sign adds the same red diagonal cancellation stripe. Not a foreign numbered road sign.",
+      "sha256": "abdfa1f57ce6a4874821ca7c4d69d72889464f2c0e7e3dc1da31d6e4115cfd29"
+    },
+    {
+      "code": "4.9.2",
+      "path": "/armenia-driving-course/images/signs/4.9.2.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Manual vector reconstruction of the Armenian tyre with snow chains; end sign adds the same red diagonal cancellation stripe. Not a foreign numbered road sign.",
+      "sha256": "d9859a90b4ad2903dc0a0bea330c08a23e617d5fd45faf8e1f6a5802e7cfb6e4"
+    },
+    {
+      "code": "4.8.1",
+      "path": "/armenia-driving-course/images/signs/4.8.1.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-4-8-1-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "999020991ec11c5eebf09d935c5c106de17b5db35cfc4078cb796a536031fed0"
+    },
+    {
+      "code": "4.8.2",
+      "path": "/armenia-driving-course/images/signs/4.8.2.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-4-8-2-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "414e4b3af5b3d62141fb3e786a41ae05bcb9d2801fdebd1142b97bf7e304066a"
+    },
+    {
+      "code": "4.8.3",
+      "path": "/armenia-driving-course/images/signs/4.8.3.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-4-8-3-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "98dd7f0d66b3548b743fdc1b4bd567f73a69fe23df64f3a57d42285566e2a5b0"
+    },
+    {
+      "code": "5.1",
+      "path": "/armenia-driving-course/images/signs/5.1.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-5-1-svg",
+      "author": "Gauravjuvekar",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Без визуальных изменений.",
+      "sha256": "c233507fe1c911db2ed0c9233c286927e74a94b0fee42eaea3397e28532d7054"
+    },
+    {
+      "code": "5.2",
+      "path": "/armenia-driving-course/images/signs/5.2.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_5.2.svg",
+      "author": "Unknown author Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_5.2.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "5cf9dd348066302a27ff1dc5e71ac735af0ab73420c0561e7722de91763629c7"
+    },
+    {
+      "code": "5.3",
+      "path": "/armenia-driving-course/images/signs/5.3.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_5.3.svg",
+      "author": "Unknown author Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_5.3.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "c090256e82ea0cf3261a548f80a558c7739491194131ba46b8c771a5e58c84d7"
+    },
+    {
+      "code": "5.4",
+      "path": "/armenia-driving-course/images/signs/5.4.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_5.4.svg",
+      "author": "Unknown author Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_5.4.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "946065266e787bf373f347a5fe24decf846316ec1723e79b8f0ff0122a7d80a6"
+    },
+    {
+      "code": "5.5",
+      "path": "/armenia-driving-course/images/signs/5.5.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_5.5.svg",
+      "author": "Life of Riley",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_5.5.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "8ade61ec478580f4257cfe82c06f9254c0614d00a0eb444cc461f49fa82b02f9"
+    },
+    {
+      "code": "5.6",
+      "path": "/armenia-driving-course/images/signs/5.6.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_5.6.svg",
+      "author": "Life of Riley",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_5.6.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "5724e773cbcdc0cd2c98f72bd4a82e73e13b8a21b0126c58382427131c791fe7"
+    },
+    {
+      "code": "5.7.1",
+      "path": "/armenia-driving-course/images/signs/5.7.1.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_5.7.1.svg",
+      "author": "Gauravjuvekar",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "changes": "Без визуальных изменений.",
+      "sha256": "4ebcb2c90ca44644d9ff2f3b0ce9ae4a1b38de8f8e9e1c3f0a3ddaba5204175e"
+    },
+    {
+      "code": "5.7.2",
+      "path": "/armenia-driving-course/images/signs/5.7.2.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_5.7.2.svg",
+      "author": "Gauravjuvekar",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "changes": "Без визуальных изменений.",
+      "sha256": "96d806f70a447b7c85c91f75de43b4973ab4c3038cfe78ec41060874508bbd52"
+    },
+    {
+      "code": "5.8",
+      "path": "/armenia-driving-course/images/signs/5.8.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_5.8.svg",
+      "author": "Life of Riley",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_5.8.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "922f7724518ade6d2e76e71b16ada149b8ce5c5bf3e1a62cf1b03e4bc52430b3"
+    },
+    {
+      "code": "5.9",
+      "path": "/armenia-driving-course/images/signs/5.9.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_5.9.svg",
+      "author": "Life of Riley",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_5.9.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "781d9b16fe499b31f4626ae3dcb76cd167ef62b65a67c022b109291aea2c15cf"
+    },
+    {
+      "code": "5.10",
+      "path": "/armenia-driving-course/images/signs/5.10.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_5.10.svg",
+      "author": "Life of Riley",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_5.10.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "7598b5c77ed26cb2a91655363c727927cc4712733a8ce5a67dfdd8bb19f922f5"
+    },
+    {
+      "code": "5.11.1",
+      "path": "/armenia-driving-course/images/signs/5.11.1.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_5.11.1.svg",
+      "author": "Nikolaev ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "06e6caeeb70da4987a4d2380e3d7cb0edf62ecc8cdc1bfc5e9abfb192100bc78"
+    },
+    {
+      "code": "5.12.1",
+      "path": "/armenia-driving-course/images/signs/5.12.1.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_5.12.1.svg",
+      "author": "Nikolaev ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "560d239a3ac94ebb0b80d459f8ae02eac9f84b7bbe91609e07a83c53ec3be4d3"
+    },
+    {
+      "code": "5.13.1",
+      "path": "/armenia-driving-course/images/signs/5.13.1.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_5.13.1.svg",
+      "author": "Nikolaev ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "cb61e7ae1bea1172d1f22bafc344eb62d459e5e3db7c2b95e14b3205400b7577"
+    },
+    {
+      "code": "5.13.2",
+      "path": "/armenia-driving-course/images/signs/5.13.2.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_5.13.2.svg",
+      "author": "Nikolaev ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "ce5d2736b19ef50a55f3fd1510bfd8c904f200726d2133671c4beca1330ed04f"
+    },
+    {
+      "code": "5.14",
+      "path": "/armenia-driving-course/images/signs/5.14.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_5.14.1.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Removed only the red ending stripe from the licensed bus-lane ending sign to reconstruct the standard Armenian bus lane.",
+      "sha256": "38b2012dcfd01dd85adaf36abdf1b465d53bb43f234b5e640cd519f38e906c95"
+    },
+    {
+      "code": "5.14.1",
+      "path": "/armenia-driving-course/images/signs/5.14.1.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_5.14.1.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "3796d33fc4e10eacf558e57619c1619f486976ef718dc19d3b8608e82d14cd96"
+    },
+    {
+      "code": "5.11.2",
+      "path": "/armenia-driving-course/images/signs/5.11.2.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-4-4-1-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Reconstructed the Armenian bicycle counterflow lane and arrows from official plate; reused the licensed bicycle pictogram only. Cancellation stripe is included only on 5.12.2.",
+      "sha256": "4e062cee8346da1844234bda982cadab4a4e8ea367e166fc294337003e26ff36"
+    },
+    {
+      "code": "5.12.2",
+      "path": "/armenia-driving-course/images/signs/5.12.2.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-4-4-1-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Reconstructed the Armenian bicycle counterflow lane and arrows from official plate; reused the licensed bicycle pictogram only. Cancellation stripe is included only on 5.12.2.",
+      "sha256": "81bcc9b7e097cf3b7bc967be296822547886db17cfe7c72a66d28dc6c85638b3"
+    },
+    {
+      "code": "5.13.3",
+      "path": "/armenia-driving-course/images/signs/5.13.3.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-4-4-1-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Reconstructed Armenian horizontal counterflow bicycle lane arrangement; both arrows and the bicycle position match the official sign.",
+      "sha256": "adf4f5c32869eb6635235d73f7f9efe94c582888c12c86f20f5e2a38845baeed"
+    },
+    {
+      "code": "5.13.4",
+      "path": "/armenia-driving-course/images/signs/5.13.4.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-4-4-1-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Reconstructed Armenian horizontal counterflow bicycle lane arrangement; both arrows and the bicycle position match the official sign.",
+      "sha256": "e5a8b49fffb3f41b0df8a1180e61619cb6eee62139f374c10c4ddcb0c1be20bc"
+    },
+    {
+      "code": "5.14.2",
+      "path": "/armenia-driving-course/images/signs/5.14.2.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-4-4-1-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Reconstructed Armenian bicycle lane with arrow above the bicycle; the ending variant carries its red diagonal stripe.",
+      "sha256": "920232506a6eb2949935687eaedc9e8486e90987e1be45b947cf750119c3dad9"
+    },
+    {
+      "code": "5.14.3",
+      "path": "/armenia-driving-course/images/signs/5.14.3.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-4-4-1-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Reconstructed Armenian bicycle lane with arrow above the bicycle; the ending variant carries its red diagonal stripe.",
+      "sha256": "94d9b579c2eef4b297ee6ba46b736003adb1edd4cf2161a6c05a0d4864ab7696"
+    },
+    {
+      "code": "5.15.1",
+      "path": "/armenia-driving-course/images/signs/5.15.1.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_5.15.1.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "a439808b0bfe7bad460db96eefea7cb11b608367679ea60bcde9b64e97cb15b1"
+    },
+    {
+      "code": "5.15.2",
+      "path": "/armenia-driving-course/images/signs/5.15.2.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed one official permitted variant: straight and right directions for one lane, with dashed lane boundary. Other variants are not combined into a new sign.",
+      "sha256": "402f69354de1d35ccf0a4e6c88cc90db3d1ab5057e60100f22a768c93b48fa33"
+    },
+    {
+      "code": "5.15.7",
+      "path": "/armenia-driving-course/images/signs/5.15.7.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed the first Armenian three-lane direction example: two opposing arrows down and one arrow up.",
+      "sha256": "2891e4af09fe7136570d96343bd53629136c1cdbfc538839c6d45bd448f635d0"
+    },
+    {
+      "code": "5.15.8",
+      "path": "/armenia-driving-course/images/signs/5.15.8.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed the first official number-of-lanes example, one lane in each direction. No foreign speed-limit examples are imported.",
+      "sha256": "95724086e2ad6199da1257076033f69ab30bbfd99c49c740f0c8239fefc4bd93"
+    },
+    {
+      "code": "5.15.3",
+      "path": "/armenia-driving-course/images/signs/5.15.3.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed the first Armenian additional-lane variant. New branch is right of the main stem; both branches have separate upward arrowheads, indicating a lane beginning.",
+      "sha256": "4768de60a90071966d070c9d3f9df18654756809400690e24df984faa644dea4"
+    },
+    {
+      "code": "5.15.4",
+      "path": "/armenia-driving-course/images/signs/5.15.4.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed the first Armenian additional-lane variant. New branch is left of the main stem; both branches have separate upward arrowheads, indicating a lane beginning.",
+      "sha256": "941baacb17fc89e6aedc147ce4ab5a91a39add5c8893ee6fa260e74034b1b905"
+    },
+    {
+      "code": "5.15.5",
+      "path": "/armenia-driving-course/images/signs/5.15.5.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_5.15.5.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "4777720b315da38355ac4e4db7442948b02eeefde07d15b9476f8cf86131df4e"
+    },
+    {
+      "code": "5.15.6",
+      "path": "/armenia-driving-course/images/signs/5.15.6.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_5.15.6.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "95a2283b9b06f1432811ed0454d7110c9c34cab54e73cd1dd68fbeb942e8eeaa"
+    },
+    {
+      "code": "5.16",
+      "path": "/armenia-driving-course/images/signs/5.16.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Vector reconstruction of Armenian bus stop: black front-view bus in white panel on a blue rectangular sign.",
+      "sha256": "5803455ff44052bf1534dcc6c7aceb9294fdb57c36dc0a9e28c978938eabe49b"
+    },
+    {
+      "code": "5.17",
+      "path": "/armenia-driving-course/images/signs/5.17.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_5.17.svg",
+      "author": "Popadius",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_5.17.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "1b5037611b07b76b305d9adde5532172b8ddcadace1367d83482ea7d522121c2"
+    },
+    {
+      "code": "5.18",
+      "path": "/armenia-driving-course/images/signs/5.18.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed Armenian KANG / TAXI wording and car silhouette from the official plate. Russian taxi word has been removed.",
+      "sha256": "bfb34e6a3d100eea456b97177ef620ea80fc35e544e31b1f6a99ca36182443fe"
+    },
+    {
+      "code": "5.19.1",
+      "path": "/armenia-driving-course/images/signs/5.19.1.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_5.19.1.svg",
+      "author": "Nikolaev ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "4fc52f6409a30dfac60e817c5126f3f690abdc2438db965f07f789720c055ffe"
+    },
+    {
+      "code": "5.19.2",
+      "path": "/armenia-driving-course/images/signs/5.19.2.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_5.19.2.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "ae5ee7da1093c7f97cf68c74bb5bc31ab4e23e7e9cc84811beb93f329132d47f"
+    },
+    {
+      "code": "5.19.3",
+      "path": "/armenia-driving-course/images/signs/5.19.3.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-4-5-1-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Reconstructed four diagonal arrows around the licensed pedestrian. 5.19.4 has no cancellation stripe.",
+      "sha256": "67e895aeecbf2c7812db121b6c634268e5f0eeb9170a1ecca711dbfe8db78efc"
+    },
+    {
+      "code": "5.19.4",
+      "path": "/armenia-driving-course/images/signs/5.19.4.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-4-5-1-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Reconstructed the NE/SW pair of diagonal arrows around the licensed pedestrian. 5.19.4 has no cancellation stripe.",
+      "sha256": "9c06615291c9546e7c2785f586109b0390fdee292c585bfad46653590f14a575"
+    },
+    {
+      "code": "5.20",
+      "path": "/armenia-driving-course/images/signs/5.20.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_5.20.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "329283fea82fd85cd923c47746a833e22749895150d885276102735972e79a4a"
+    },
+    {
+      "code": "5.23.1",
+      "path": "/armenia-driving-course/images/signs/5.23.1.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed Armenian/English APARAN place example from the official Armenian plate; white background.",
+      "sha256": "7b92e46281ae0c7cd503d390a5f39549877866cdc2acc498a0dd2308aaee450c"
+    },
+    {
+      "code": "5.23.2",
+      "path": "/armenia-driving-course/images/signs/5.23.2.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_5.23.2.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "56cceccaa4139b86c29b397a4e45228a297bff0a2785eed38030641d43c0a4e1"
+    },
+    {
+      "code": "5.24.1",
+      "path": "/armenia-driving-course/images/signs/5.24.1.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed Armenian/English APARAN place example from the official Armenian plate; white background with the ending red stripe.",
+      "sha256": "b2f2ab0a6842760b479efea3c58184468315a720a9aa927378b64c83297492dd"
+    },
+    {
+      "code": "5.24.2",
+      "path": "/armenia-driving-course/images/signs/5.24.2.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_5.24.2.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "3e95d9ab93e9f22dbea6c4c51ef026788cc618ad1994830b10320a6f4c8eac44"
+    },
+    {
+      "code": "5.25",
+      "path": "/armenia-driving-course/images/signs/5.25.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed Armenian/English APARAN place example from the official Armenian plate; blue background.",
+      "sha256": "ce671880284390315073d16361268b4d3bc826c4d1e0dd82d1f3baca3cd25153"
+    },
+    {
+      "code": "5.26",
+      "path": "/armenia-driving-course/images/signs/5.26.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed Armenian/English APARAN place example from the official Armenian plate; blue background with the ending red stripe.",
+      "sha256": "4fc1cb6f9b915fdcfb08e0ebfbfd970bf7541111e00a86d577c778822072dae4"
+    },
+    {
+      "code": "5.21",
+      "path": "/armenia-driving-course/images/signs/5.21.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_5.21.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "96c1db16c8feae87648d72d4b6675935dab7c9b83102e7c919a7888230935dc3"
+    },
+    {
+      "code": "5.22",
+      "path": "/armenia-driving-course/images/signs/5.22.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_5.22.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "69c80b1787b34057ce9e502f939c55577cc623fd4851858368844c7e3d6051cc"
+    },
+    {
+      "code": "5.33",
+      "path": "/armenia-driving-course/images/signs/5.33.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-4-5-1-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Reconstructed Armenian GOTI zone label and the official zone pictogram. Removed foreign Russian words, parking car additions, and pedestrian-zone asterisks. Ending hatching is included only for ending signs.",
+      "sha256": "056b00db843db50a8217382817f6dd37644b34e909b38709385c302ac0c36ea3"
+    },
+    {
+      "code": "5.34",
+      "path": "/armenia-driving-course/images/signs/5.34.svg",
+      "sourcePage": "https://gist.github.com/a1ip/9615037176378b044ea80030761113e0#file-4-5-1-svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Reconstructed Armenian GOTI zone label and the official zone pictogram. Removed foreign Russian words, parking car additions, and pedestrian-zone asterisks. Ending hatching is included only for ending signs.",
+      "sha256": "f60c2561a4ddd09b78740f0c02ede405ba2ac22ab8131c96e4963f1d263120b0"
+    },
+    {
+      "code": "5.27",
+      "path": "/armenia-driving-course/images/signs/5.27.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed Armenian GOTI zone label and the official zone pictogram. Removed foreign Russian words, parking car additions, and pedestrian-zone asterisks. Ending hatching is included only for ending signs.",
+      "sha256": "20880f976f4c74f8ff8d84f28fa0aeb4e24229a0c94e4a25f1cae1a1e46b2f0a"
+    },
+    {
+      "code": "5.28",
+      "path": "/armenia-driving-course/images/signs/5.28.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed Armenian GOTI zone label and the official zone pictogram. Removed foreign Russian words, parking car additions, and pedestrian-zone asterisks. Ending hatching is included only for ending signs.",
+      "sha256": "9fd8bf18ab03e41807e9bb4a9228d7eb39375d76eef57c6a1db33c03e90e7c43"
+    },
+    {
+      "code": "5.29",
+      "path": "/armenia-driving-course/images/signs/5.29.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed Armenian GOTI zone label and the official zone pictogram. Removed foreign Russian words, parking car additions, and pedestrian-zone asterisks. Ending hatching is included only for ending signs.",
+      "sha256": "1aada360d0552898da4dfa36d656fa7614b483986d5440120f2de4c019ecd0b7"
+    },
+    {
+      "code": "5.30",
+      "path": "/armenia-driving-course/images/signs/5.30.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed Armenian GOTI zone label and the official zone pictogram. Removed foreign Russian words, parking car additions, and pedestrian-zone asterisks. Ending hatching is included only for ending signs.",
+      "sha256": "77c1129357a4dccb3616fd635eaffc90e68e25356d80f8724dcdb2c9ca7d17e1"
+    },
+    {
+      "code": "5.31",
+      "path": "/armenia-driving-course/images/signs/5.31.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed Armenian GOTI zone label and the official zone pictogram. Removed foreign Russian words, parking car additions, and pedestrian-zone asterisks. Ending hatching is included only for ending signs.",
+      "sha256": "edf7ff5c018cab0d5c55bdc3a3abbc6e75d9a7a4de2f6f1a6b3cb3d9f9a44116"
+    },
+    {
+      "code": "5.32",
+      "path": "/armenia-driving-course/images/signs/5.32.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed Armenian GOTI zone label and the official zone pictogram. Removed foreign Russian words, parking car additions, and pedestrian-zone asterisks. Ending hatching is included only for ending signs.",
+      "sha256": "a208adbd8236130932b4740e04cc4299a657ade3499af58deeab38109e84772d"
+    },
+    {
+      "code": "6.1",
+      "path": "/armenia-driving-course/images/signs/6.1.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed the Armenian national-speed panel from official sheet pdd-08: 60 in built-up areas, 90 outside, 110 on motorways; values independently checked against ARLIS clauses 68-69. Rebuilt Armenian/English country heading, settlement symbols and motorway symbol; all text is paths.",
+      "sha256": "47c468c55e5e4938c6e7921620475c5af626952a7fa7d6fb576753bb88f2f8f7"
+    },
+    {
+      "code": "6.2",
+      "path": "/armenia-driving-course/images/signs/6.2.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed the blue recommended-speed sign with 50 as shown on official sheet pdd-08. Numerals are vector outlines.",
+      "sha256": "269fb0184b66ecb03937bf5d1582b36612c2c094c323c8a1efaf2c9890a51c2c"
+    },
+    {
+      "code": "6.5",
+      "path": "/armenia-driving-course/images/signs/6.5.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_6.5.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "7aa956af7a0fab016f03f3cc3309c1c696fa8e017317f4f1847e50b02b47d2fe"
+    },
+    {
+      "code": "6.16",
+      "path": "/armenia-driving-course/images/signs/6.16.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed the Armenian bilingual stop-line sign from official pdd-09. Black Armenian ԿԱՆԳ is above STOP; the two-line layout is retained and all lettering is paths.",
+      "sha256": "2ee6a5a83d670b223b80602e266b5cd21da498e7d9d9d97913db1a6d79b6cdf3"
+    },
+    {
+      "code": "6.3.1",
+      "path": "/armenia-driving-course/images/signs/6.3.1.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_6.3.1.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "1e2f95eecab977ddea4f55d9f0ba4629df3f5e834452d5d77e381e8fa6ac0799"
+    },
+    {
+      "code": "6.3.2",
+      "path": "/armenia-driving-course/images/signs/6.3.2.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed the Armenian two-branch U-turn-zone arrow from official sheet pdd-08. The low-resolution official example does not resolve the number reliably; 150 մ is an illustrative length, not a new legal limit. Unlike foreign one-arrow samples, both U-turn arrows are present. All lettering is outlined.",
+      "sha256": "a1540082d3d4049988284a495d94032d3b91fb762cd5b47f542588a3e46bc67f"
+    },
+    {
+      "code": "6.4",
+      "path": "/armenia-driving-course/images/signs/6.4.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed the blue parking sign with white P from official sheet pdd-08. Letter is a vector outline.",
+      "sha256": "28eaa9d8a0d2faf115dd048a0434fe9eb5677f7400a0cd910767e2ba1fed2e27"
+    },
+    {
+      "code": "6.6",
+      "path": "/armenia-driving-course/images/signs/6.6.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_6.6.svg",
+      "author": "6.6_(Road_sign).png Master Shadow derivative work: Pedroca cerebral Talk - Up",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_6.6.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "7bc8d4a9c50eb42b8968a2eff70cf236c4b406dc082a0350c7a055ce2877ed06"
+    },
+    {
+      "code": "6.7",
+      "path": "/armenia-driving-course/images/signs/6.7.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_6.7.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_6.7.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "b060802f651ee000af8d8d99f4c8438c0b8e447db7714de1de94b74e3d2bb5c1"
+    },
+    {
+      "code": "6.8.1",
+      "path": "/armenia-driving-course/images/signs/6.8.1.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_6.8.1.svg",
+      "author": "Nikolaev ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "e93dc96a23ae2ab0df8fdd5c70bd6a27441564b8aa665015058f7237379a607b"
+    },
+    {
+      "code": "6.8.2",
+      "path": "/armenia-driving-course/images/signs/6.8.2.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_6.8.2.svg",
+      "author": "Nikolaev ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "309ab113f16e8223741ff6b99a5afd655f5103b4f1004dfa689620a13faf644a"
+    },
+    {
+      "code": "6.8.3",
+      "path": "/armenia-driving-course/images/signs/6.8.3.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_6.8.3.svg",
+      "author": "Nikolaev ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "bc0bb0f5fcdf5607564d787f40b23495a45be8e65dfdd372f06f3c3008c589dd"
+    },
+    {
+      "code": "6.9.1",
+      "path": "/armenia-driving-course/images/signs/6.9.1.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed the first blue Armenian advance-direction variant from official sheet pdd-08, preserving straight route, loop/U-turn branch, diagonal right branch and bilingual destination examples. The low-resolution sample does not resolve all small route badges and distance reliably: route badge lettering and 300 մ are illustrative examples, not assertions about actual road numbering or distance. All lettering is vector paths.",
+      "sha256": "be7e500a432f4ea2d438aab9e3614cbd525de5b0cf34fd0c7ec3bf91182f0612"
+    },
+    {
+      "code": "6.9.2",
+      "path": "/armenia-driving-course/images/signs/6.9.2.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed the middle blue Armenian advance-direction example from official sheet pdd-08, with upward arrow, 1 կմ approach distance and Armenian destination list. All lettering is vector paths.",
+      "sha256": "b4d5a81cd5b4de4e68babb22fa27f2b3cdde059f72a2ce5bfeff1459bcd420ce"
+    },
+    {
+      "code": "6.9.3",
+      "path": "/armenia-driving-course/images/signs/6.9.3.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed Armenian traffic scheme from official sheet pdd-08: the permitted path loops around the upper-right block and ends with a left arrow. Preserved white crossing roads and blue blocks.",
+      "sha256": "1ec0221b0fca23391844c8a2a3e607c9dcfae629190ca548ec472874ca0e4b2c"
+    },
+    {
+      "code": "6.10.1",
+      "path": "/armenia-driving-course/images/signs/6.10.1.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed the white three-direction Armenian sign from official pdd-08: Armavir straight, Masis left, hotel ARMENIA right; blue destination inserts and bilingual hotel lettering retained. Text is paths.",
+      "sha256": "5368214f3e74a3c8cad8590a2adcd19f97d5034a621e437dbdfe93cfb60eb941"
+    },
+    {
+      "code": "6.10.2",
+      "path": "/armenia-driving-course/images/signs/6.10.2.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed the blue right-pointing Nshavan destination sign with 5 km sample from official pdd-08. Armenian and Latin destination names are outlined.",
+      "sha256": "5ba104104694db4bbaf11919679da69cfc2bb1e60293a79b478634c909a74360"
+    },
+    {
+      "code": "6.11",
+      "path": "/armenia-driving-course/images/signs/6.11.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed the blue river-name variant from official pdd-08: Armenian ՔԱՍԱԽ and Latin KASAKH, with river abbreviation. Text is paths.",
+      "sha256": "204c17f5cd660d3228aeb3ee6be490ee4c6723c2d14d57fa88a8c9d78cfa43e8"
+    },
+    {
+      "code": "6.12",
+      "path": "/armenia-driving-course/images/signs/6.12.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed the blue Armenian distance-board sample from official pdd-08 with bilingual Sevan, Dilijan and Ijevan destinations and 60, 100, 135 km distances. Text is paths.",
+      "sha256": "abc589510e4e1e6a239c9fc6ac67d3fd325fed9504c7784934ff414513e6b950"
+    },
+    {
+      "code": "6.13",
+      "path": "/armenia-driving-course/images/signs/6.13.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed the Armenian kilometre-marker sample 1123 from official pdd-08. Numerals are vector outlines.",
+      "sha256": "d542ce1d3bd0107e6223732c86ca13ddd42d0ff515a62f50b2f764c10a04a6e4"
+    },
+    {
+      "code": "6.14.1",
+      "path": "/armenia-driving-course/images/signs/6.14.1.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed the blue M5 route-number variant from official pdd-09. Route lettering is paths.",
+      "sha256": "c64b4aa12e1622747d0ac0aa0be02815677685de7169c86ecba268e2ef9b03cf"
+    },
+    {
+      "code": "6.14.2",
+      "path": "/armenia-driving-course/images/signs/6.14.2.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed the blue M55 route-number sign with left arrow from official pdd-09. Route lettering is paths.",
+      "sha256": "fcbb81bbbbbe0f2eeca9b225c4d4913eb276bc803837d2bfef82d95e6794ae2e"
+    },
+    {
+      "code": "6.15.1",
+      "path": "/armenia-driving-course/images/signs/6.15.1.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_6.15.1.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "fb66718b7d56b3a552917b318bc330573c15071de29a5c6d084bdd136a5a76b9"
+    },
+    {
+      "code": "6.15.2",
+      "path": "/armenia-driving-course/images/signs/6.15.2.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_6.15.2.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "83665765363ccc69c9fa57218bc1912a54c7c46da437ea5dceda5cff2b2d5425"
+    },
+    {
+      "code": "6.15.3",
+      "path": "/armenia-driving-course/images/signs/6.15.3.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_6.15.3.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "9c8cbee5d316996a31311705e56d2a855ff724c8d2ac7014b30da15f4d34e6bd"
+    },
+    {
+      "code": "6.17",
+      "path": "/armenia-driving-course/images/signs/6.17.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed the Armenian yellow detour scheme from official pdd-09. Retained the closed straight route, right-side rectangular detour and junction circles. Armenian/English detour header and destination labels are vector outlines.",
+      "sha256": "937e7caf3a5467f9f2fd8f9aac478281b738bf5189b5c2f51e81c5d05bde7ae0"
+    },
+    {
+      "code": "6.18.1",
+      "path": "/armenia-driving-course/images/signs/6.18.1.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed the first bilingual Armenian/English yellow detour-direction variant from official pdd-09. Matched up arrow and Armenian ՇՐՋԱՆՑՈՒՄ above DETOUR; lettering is paths.",
+      "sha256": "4bfc9c534091f16d4f28dafb132a4001ec8c67e68118916ec5f3a9438e594455"
+    },
+    {
+      "code": "6.18.2",
+      "path": "/armenia-driving-course/images/signs/6.18.2.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed the first bilingual Armenian/English yellow detour-direction variant from official pdd-09. Matched right arrow and Armenian ՇՐՋԱՆՑՈՒՄ above DETOUR; lettering is paths.",
+      "sha256": "dd7004e6c4a5f738c3d648cd09299c3aca3c8f6b0487c83a9d6c06e665b8f0df"
+    },
+    {
+      "code": "6.18.3",
+      "path": "/armenia-driving-course/images/signs/6.18.3.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed the first bilingual Armenian/English yellow detour-direction variant from official pdd-09. Matched left arrow and Armenian ՇՐՋԱՆՑՈՒՄ above DETOUR; lettering is paths.",
+      "sha256": "99c1fd8bef2874830d3b1d779cc2c102823953d1f2a9cde5d4ba61277de3c3f5"
+    },
+    {
+      "code": "6.19.1",
+      "path": "/armenia-driving-course/images/signs/6.19.1.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_6.19.1.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "9a97396e4d9a84c40595480ba1defe0f8cc839a35b4191bd63c9167d4aad6786"
+    },
+    {
+      "code": "6.19.2",
+      "path": "/armenia-driving-course/images/signs/6.19.2.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_6.19.2.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "3f23a97065870d0142f1b8faf3e22928fe248801a28e38c958346ee515808bf0"
+    },
+    {
+      "code": "6.20.1",
+      "path": "/armenia-driving-course/images/signs/6.20.1.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_6.20.1.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Retained the Commons emergency-exit vector after checking the left doorway and running figure against Armenian official pdd-09; added viewBox and removed editor metadata.",
+      "sha256": "e18256c8dfc0495fb5510d0684593f23c34b63abb78e3e023482ae2e812caf51"
+    },
+    {
+      "code": "6.20.2",
+      "path": "/armenia-driving-course/images/signs/6.20.2.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_6.20.1.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Mirrored the Commons 6.20.1 doorway/runner vector horizontally to match Armenian 6.20.2 with the doorway on the right. Removed editor metadata and added viewBox.",
+      "sha256": "e7e4c3a36129b1f14eadd4c118aea261d4062d0d89969b5bc92a0229f63f7701"
+    },
+    {
+      "code": "6.21.1",
+      "path": "/armenia-driving-course/images/signs/6.21.1.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_6.20.1.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Reconstructed the Armenian green arrow-shaped emergency-exit direction sample from official pdd-09, reusing the Commons 6.20.1 runner path (cropped as vector geometry and mirrored where appropriate). Preserved left direction, doorway, inner white arrow and 100 մ distance. Sign shape, lettering and layout are reconstructions; no raster or external resources are included.",
+      "sha256": "2f346a55d463b274a0a1a549526cc613c22cb53d677a74a5387e248208ac258e"
+    },
+    {
+      "code": "6.21.2",
+      "path": "/armenia-driving-course/images/signs/6.21.2.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_6.20.1.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Reconstructed the Armenian green arrow-shaped emergency-exit direction sample from official pdd-09, reusing the Commons 6.20.1 runner path (cropped as vector geometry and mirrored where appropriate). Preserved right direction, doorway, inner white arrow and 150 մ distance. Sign shape, lettering and layout are reconstructions; no raster or external resources are included.",
+      "sha256": "fbdf97f445cfaefb027c488f7817683928bb4323149f9ea9fb369fa51b70fba0"
+    },
+    {
+      "code": "7.3",
+      "path": "/armenia-driving-course/images/signs/7.3.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_7.3.svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Kept the licensed service pictogram and frame; replaced only the footer with the Armenian distance example and Armenian metre glyph.",
+      "sha256": "19e7e311ec830a1dd3201a7848082cc4980834651c086da27c2833366e58ec7f"
+    },
+    {
+      "code": "7.4",
+      "path": "/armenia-driving-course/images/signs/7.4.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_7.4.svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Kept the licensed service pictogram and frame; replaced only the footer with the Armenian distance example and Armenian metre glyph.",
+      "sha256": "9f52479267d2fe832f0460e0481ee1fc450cd714c2b9abcd74186a4635462f62"
+    },
+    {
+      "code": "7.5",
+      "path": "/armenia-driving-course/images/signs/7.5.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_7.5.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "fe3c3ec40bb0de7cfa2da92c49aecc882791c79eee1cddf279b671f96add59ed"
+    },
+    {
+      "code": "7.21",
+      "path": "/armenia-driving-course/images/signs/7.21.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed official fuel-station and electric-charging plug pictograms, with Armenian 800 metre example. The plug is geometric SVG, not a raster thumbnail.",
+      "sha256": "3252fdd455f09da1575b8ae0985a66f76ab28a2ee1893558c8a22f9096ad2a9f"
+    },
+    {
+      "code": "7.7",
+      "path": "/armenia-driving-course/images/signs/7.7.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_7.7.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "d1181d796d711ca7b9354a461d291e22f74c3788edcad6a396b9085e934e271c"
+    },
+    {
+      "code": "7.8",
+      "path": "/armenia-driving-course/images/signs/7.8.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_7.8.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "a38fe3789532991a9d198c68dbd90d37c1bc8199556dfc37b6ab31f4a95dc897"
+    },
+    {
+      "code": "7.9",
+      "path": "/armenia-driving-course/images/signs/7.9.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_7.9.svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "62289892b6adaf16b3be3675e67a6dd4e501090adc6a51dd92e899459f635525"
+    },
+    {
+      "code": "7.10",
+      "path": "/armenia-driving-course/images/signs/7.10.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_7.10.svg",
+      "author": "Nikolaev ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "0c22df35c3039894dc37c7b02dac69ebe89d75c87fb79d482b2c9eab47c63eb6"
+    },
+    {
+      "code": "7.11",
+      "path": "/armenia-driving-course/images/signs/7.11.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_7.11.svg",
+      "author": "Nikolaev ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "6a3dac6645705f0027fe6be1be10d037589763d38997be789adfed09703e056c"
+    },
+    {
+      "code": "7.17",
+      "path": "/armenia-driving-course/images/signs/7.17.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_7.17.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "53df25236052d865f3770ddcd6665e573c24e498902dbd62f4e2d6a9050b7ab5"
+    },
+    {
+      "code": "7.18",
+      "path": "/armenia-driving-course/images/signs/7.18.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_7.18.svg",
+      "author": "Юкатан",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_7.18.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "adc40ec9ef2dd94dabb46cac10275c1cbc8f56e065d3d54cbc32ecb699298287"
+    },
+    {
+      "code": "7.1",
+      "path": "/armenia-driving-course/images/signs/7.1.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_7.1.svg",
+      "author": "Юкатан",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "6f80dcd1ac68468a1fe0d13e377bfa49fc6d7774f9dfa0bec90cbe9eef0142a6"
+    },
+    {
+      "code": "7.2",
+      "path": "/armenia-driving-course/images/signs/7.2.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_7.2.svg",
+      "author": "Gigillo83",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_7.2.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "0c275fe08f7ffd39626e7b62588efaae2c370ac19c4fe5a20aa0f1a4e06626be"
+    },
+    {
+      "code": "7.6",
+      "path": "/armenia-driving-course/images/signs/7.6.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_7.6.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Без визуальных изменений.",
+      "sha256": "15f081702b1159209b902e8390d5f1b0c49a10a7defde1c754a8a0b01ace2fcf"
+    },
+    {
+      "code": "7.19",
+      "path": "/armenia-driving-course/images/signs/7.19.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_7.19.svg",
+      "author": "Ximeg",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_7.19.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "81e3f08b2f90bce49eec19db6e31d0228c542931b1dfa6e893dc8342f7dca95c"
+    },
+    {
+      "code": "7.20",
+      "path": "/armenia-driving-course/images/signs/7.20.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_7.20.svg",
+      "author": "Unknown author Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RU_road_sign_7.20.svg#Licensing",
+      "changes": "Без визуальных изменений.",
+      "sha256": "f3c6f1d9e213d04382120f3d43e8b2e08b467d8678de6f5fb34023c194ed5a49"
+    },
+    {
+      "code": "7.12",
+      "path": "/armenia-driving-course/images/signs/7.12.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed Armenian road-police abbreviation JO and RP with official 100 metre example. All glyphs are vector outlines; Russian DPS text is excluded.",
+      "sha256": "3e50f1a9c78c301eb6c80743adf5eef2b51f0bf7993760395993ad41973adf4c"
+    },
+    {
+      "code": "7.13",
+      "path": "/armenia-driving-course/images/signs/7.13.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed Armenian and English POLICE labels and official 100 metre example. No Russian police wording is retained.",
+      "sha256": "812cdbc77cc6bf5cd140ec53a684394d4dc8d2dd59935d9e0dd295d17c6c9202"
+    },
+    {
+      "code": "7.14",
+      "path": "/armenia-driving-course/images/signs/7.14.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed the official Armenian truck and coach control sign, including the Armenian transport-control wording. Both silhouettes are geometric vectors.",
+      "sha256": "847a672078e33e434651a03decb9908aa078533342f3268e115bedcec34c4a6b"
+    },
+    {
+      "code": "7.15",
+      "path": "/armenia-driving-course/images/signs/7.15.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed Armenian RADIO / RADIO and the official 68.0 MHz example with Armenian unit. No Russian radio text or units remain.",
+      "sha256": "ba079e8d46517fa04225741f8a9a4d65f831f8ec0c36d9c35a8353d5f4b87910"
+    },
+    {
+      "code": "7.16",
+      "path": "/armenia-driving-course/images/signs/7.16.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Reconstructed Armenian KAP communication sign: 27 MHz and channel 9, with the exact Armenian labels and vector outlines.",
+      "sha256": "73357276c9c20cfdcadcd474d14c9c135476325493ede35002b619636ba12e07"
+    },
+    {
+      "code": "8.1.1",
+      "path": "/armenia-driving-course/images/signs/8.1.1.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Восстановлены официальный пример 300 метров и армянская единица. Буквы и цифры представлены контурами.",
+      "sha256": "099a46972473b46d22315cc22160a7b14a56532281190897984ec5d9baf9d9eb"
+    },
+    {
+      "code": "8.1.2",
+      "path": "/armenia-driving-course/images/signs/8.1.2.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Восстановлена армянская трёхстрочная табличка КАНГ / STOP /250 метров по официальному образцу.",
+      "sha256": "8dc6dd5b854ea12b379fe264005ba18cd2751bb0789cc8b40bf5259f99c728bb"
+    },
+    {
+      "code": "8.1.3",
+      "path": "/armenia-driving-course/images/signs/8.1.3.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Восстановлены сторона стрелки, официальный числовой пример и армянская единица метров. Все надписи контурные.",
+      "sha256": "3c81ac18bafb8832a2ab05f6166c1de0466b110c9456e9fc60ffe58c3b06eb45"
+    },
+    {
+      "code": "8.1.4",
+      "path": "/armenia-driving-course/images/signs/8.1.4.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Восстановлены сторона стрелки, официальный числовой пример и армянская единица метров. Все надписи контурные.",
+      "sha256": "41360d59faedbe9bfa724f98df0255c52bb46064426621735d177592a23b81a3"
+    },
+    {
+      "code": "8.2.1",
+      "path": "/armenia-driving-course/images/signs/8.2.1.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Официальные две стрелки вверх, число 300 и армянская единица метров восстановлены векторами.",
+      "sha256": "b7b6e6cc2215bf88294df410be55d5f424067f19dbc5f52385fa79bbe137c296"
+    },
+    {
+      "code": "8.2.2",
+      "path": "/armenia-driving-course/images/signs/8.2.2.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Сохранены вертикальная форма, одна стрелка вверх и официальный пример10 метров. Армянская единица восстановлена контуром.",
+      "sha256": "3d78d1c5dd19b210b3568eb327bdafe1d7fce1e1692f9d84549f3e19684156b2"
+    },
+    {
+      "code": "8.2.3",
+      "path": "/armenia-driving-course/images/signs/8.2.3.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_8.2.3.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Проверены форма, направление и символ по армянскому официальному листу. Рисунок сохранён; удалены редакторские метаданные и добавлен viewBox.",
+      "sha256": "f0813320adef4d52e1759d949341bbf0281277e1abff96ad2cfbbfb58f866010"
+    },
+    {
+      "code": "8.2.4",
+      "path": "/armenia-driving-course/images/signs/8.2.4.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_8.2.4.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Проверены форма, направление и символ по армянскому официальному листу. Рисунок сохранён; удалены редакторские метаданные и добавлен viewBox.",
+      "sha256": "c2ab5698ed6a51efc95bce9a1d9a8c7ca512ed469f24547456962033e683cd4d"
+    },
+    {
+      "code": "8.2.5",
+      "path": "/armenia-driving-course/images/signs/8.2.5.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Восстановлены сторона стрелки, официальный числовой пример и армянская единица метров. Все надписи контурные.",
+      "sha256": "b2d26c3b1e44c101700ca51146b101a6fd5d836d6ba1f9e28b17862288cc2567"
+    },
+    {
+      "code": "8.2.6",
+      "path": "/armenia-driving-course/images/signs/8.2.6.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Восстановлены сторона стрелки, официальный числовой пример и армянская единица метров. Все надписи контурные.",
+      "sha256": "5a6e8cd4b0aca1b3958bcf3b164f692e072c783cd2560c36bf6f88790a307e08"
+    },
+    {
+      "code": "8.3.1",
+      "path": "/armenia-driving-course/images/signs/8.3.1.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_8.3.1.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Проверены форма, направление и символ по армянскому официальному листу. Рисунок сохранён; удалены редакторские метаданные и добавлен viewBox.",
+      "sha256": "09fc8e1b4f27e6901bf23c3290ca595ee5a77924e8002dfc04a9d0ee0eeb8c08"
+    },
+    {
+      "code": "8.3.2",
+      "path": "/armenia-driving-course/images/signs/8.3.2.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_8.3.2.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Проверены форма, направление и символ по армянскому официальному листу. Рисунок сохранён; удалены редакторские метаданные и добавлен viewBox.",
+      "sha256": "dff2438b0d0575f69a5892ad779e90b3a3a781173963972948d508c659e867b8"
+    },
+    {
+      "code": "8.3.3",
+      "path": "/armenia-driving-course/images/signs/8.3.3.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_8.3.3.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Проверены форма, направление и символ по армянскому официальному листу. Рисунок сохранён; удалены редакторские метаданные и добавлен viewBox.",
+      "sha256": "9479a2991c0a1eb9ebb869a5130fabd0816599757e1d3ad5912b9d20215ded29"
+    },
+    {
+      "code": "8.4.1",
+      "path": "/armenia-driving-course/images/signs/8.4.1.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_8.4.1.svg",
+      "author": "Nikolaev ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Проверены форма, направление и символ по армянскому официальному листу. Рисунок сохранён; удалены редакторские метаданные и добавлен viewBox.",
+      "sha256": "dc62bc7518fdda86eeb754684e1489b66a06f10643ea826ec361958e8f913891"
+    },
+    {
+      "code": "8.4.2",
+      "path": "/armenia-driving-course/images/signs/8.4.2.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_8.4.2.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Проверены форма, направление и символ по армянскому официальному листу. Рисунок сохранён; удалены редакторские метаданные и добавлен viewBox.",
+      "sha256": "3d791e34b3081af5d4ff62e0492dedf61b77ca7bab834caf48ddcffb596fa4e7"
+    },
+    {
+      "code": "8.4.3",
+      "path": "/armenia-driving-course/images/signs/8.4.3.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Силуэт легкового автомобиля восстановлен простой геометрией по армянскому листу; вид сбоку, нос влево, без прицепа.",
+      "sha256": "3d816b78d0ab6514649fced350a33fdc57a411487a56135f937ef7727402f013"
+    },
+    {
+      "code": "8.4.3.1",
+      "path": "/armenia-driving-course/images/signs/8.4.3.1.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Восстановлены фронтальный автомобиль, петля зарядного кабеля и двухконтактная вилка по армянскому образцу.",
+      "sha256": "5a1ff1f821db92de6377a81b888e37c76ff2a53edc262395a8825eca2605758c"
+    },
+    {
+      "code": "8.4.4",
+      "path": "/armenia-driving-course/images/signs/8.4.4.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_8.4.4.svg",
+      "author": "Nikolaev ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Проверены форма, направление и символ по армянскому официальному листу. Рисунок сохранён; удалены редакторские метаданные и добавлен viewBox.",
+      "sha256": "7cabdf63d8eaf6cc6b192f7146f57aa60da63eb8df0defb6c3e3dd1443fde327"
+    },
+    {
+      "code": "8.4.5",
+      "path": "/armenia-driving-course/images/signs/8.4.5.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_8.4.5.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Проверены форма, направление и символ по армянскому официальному листу. Рисунок сохранён; удалены редакторские метаданные и добавлен viewBox.",
+      "sha256": "d26cc530e8d0f2e9b3cf128c038c230a2c3bcef15c7a345a2daca7bc2cbda857"
+    },
+    {
+      "code": "8.4.6",
+      "path": "/armenia-driving-course/images/signs/8.4.6.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_8.4.6.svg",
+      "author": "Nikolaev ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Проверены форма, направление и символ по армянскому официальному листу. Рисунок сохранён; удалены редакторские метаданные и добавлен viewBox.",
+      "sha256": "e9290685905606e6c6cd54b352bc0c8573af7e000e70ba09ba23a89592d26bff"
+    },
+    {
+      "code": "8.4.7",
+      "path": "/armenia-driving-course/images/signs/8.4.7.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_8.4.7.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Проверены форма, направление и символ по армянскому официальному листу. Рисунок сохранён; удалены редакторские метаданные и добавлен viewBox.",
+      "sha256": "bea718a6446d774ccf1673104544d485e8f9b63c12d3b2f046848360411bf297"
+    },
+    {
+      "code": "8.4.8",
+      "path": "/armenia-driving-course/images/signs/8.4.8.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_8.4.8.svg",
+      "author": "Nikolaev ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Проверены форма, направление и символ по армянскому официальному листу. Рисунок сохранён; удалены редакторские метаданные и добавлен viewBox.",
+      "sha256": "cc7074b986cf7b9807e89202cbbf70dcb6033f3f9a98f49f1708f9750745a25e"
+    },
+    {
+      "code": "8.4.9",
+      "path": "/armenia-driving-course/images/signs/8.4.9.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_8.4.1.svg",
+      "author": "Nikolaev ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Сохранён проверенный лицензированный силуэт из 8.4.1; восстановлены армянское «բացի» и расположение символа над словом исключения.",
+      "sha256": "980fd5e6ffb9eb467827f36bbceeb8e2c4044f6a29401ff3c142a9f1b9380f90"
+    },
+    {
+      "code": "8.4.10",
+      "path": "/armenia-driving-course/images/signs/8.4.10.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Армянский образец содержит легковой автомобиль без прицепа. Силуэт и слово «բացի» восстановлены векторами; ошибочная трактовка прицепа не используется.",
+      "sha256": "84e14054e3002540f6cbc588da2ab2b9fa73dfb3716dd76db807139e8de1b836"
+    },
+    {
+      "code": "8.4.11",
+      "path": "/armenia-driving-course/images/signs/8.4.11.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_8.4.4.svg",
+      "author": "Nikolaev ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Сохранён проверенный лицензированный силуэт из 8.4.4; восстановлены армянское «բացի» и расположение символа над словом исключения.",
+      "sha256": "e3833a1e4cae1aebaa7cae41616422ba788a50ca1cf4b484c851fff753e1450d"
+    },
+    {
+      "code": "8.4.14",
+      "path": "/armenia-driving-course/images/signs/8.4.14.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Восстановлены фронтальный силуэт такси с обозначением на крыше и армянское слово исключения.",
+      "sha256": "8739abc5adb7e0101fc6420f14d0af0a116368c635e059ac8b30d3328e49ae28"
+    },
+    {
+      "code": "8.4.12",
+      "path": "/armenia-driving-course/images/signs/8.4.12.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_8.4.6.svg",
+      "author": "Nikolaev ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Сохранён проверенный лицензированный силуэт из 8.4.6; восстановлены армянское «բացի» и расположение символа над словом исключения.",
+      "sha256": "75e097e7cd1f79d3e63de2b3147fc0a782ed412fa4ad5377969a6434428243b5"
+    },
+    {
+      "code": "8.4.13",
+      "path": "/armenia-driving-course/images/signs/8.4.13.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_8.4.7.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Сохранён проверенный лицензированный силуэт из 8.4.7; восстановлены армянское «բացի» и расположение символа над словом исключения.",
+      "sha256": "405f0ade6ed715b1cc0bf4750d84d14d7c115a22a6deae7f0e434a9b5eed41fc"
+    },
+    {
+      "code": "8.4.15",
+      "path": "/armenia-driving-course/images/signs/8.4.15.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Восстановлены зарядный символ автомобиля и армянское слово «բացի».",
+      "sha256": "e0bf767b05df2e0a2d9d6471c7d84e801533a7b2c3cba02bb20f596d769c268e"
+    },
+    {
+      "code": "8.5.1",
+      "path": "/armenia-driving-course/images/signs/8.5.1.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_8.5.1.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Проверены форма, направление и символ по армянскому официальному листу. Рисунок сохранён; удалены редакторские метаданные и добавлен viewBox.",
+      "sha256": "33385495c6b7c583f9d3b735c8d64871e7c903e5ef568e5be135b02bb5079f3c"
+    },
+    {
+      "code": "8.5.2",
+      "path": "/armenia-driving-course/images/signs/8.5.2.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_8.5.2.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Проверены форма, направление и символ по армянскому официальному листу. Рисунок сохранён; удалены редакторские метаданные и добавлен viewBox.",
+      "sha256": "5f1c65359edc2d33832f3ae08fa748bc551d897f621165004a28e3694c041863"
+    },
+    {
+      "code": "8.5.3",
+      "path": "/armenia-driving-course/images/signs/8.5.3.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Использован читаемый пример пятницы вместо нечёткого образца дней. Армянское ՈՒՐԲԱԹ и FRIDAY подтверждены на официальной8.5.7; часов на8.5.3 нет.",
+      "sha256": "67eb9bbef8bc2e0935cc01ada87c60144897b70e6d8cc168279627eb87da0b8e"
+    },
+    {
+      "code": "8.5.4",
+      "path": "/armenia-driving-course/images/signs/8.5.4.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Восстановлен официальный интервал8.30-17.30 без дней недели, все цифры контурные.",
+      "sha256": "ecfa4779a6f6553ab19769f3ffc233659133219941203660d219144506a72bfd"
+    },
+    {
+      "code": "8.5.5",
+      "path": "/armenia-driving-course/images/signs/8.5.5.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_8.5.1.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Сохранён лицензированный календарный символ; время адаптировано к официальному армянскому примеру8.30-17.30.",
+      "sha256": "aa376ac4a8ef03752419c3cc80d200c2cbe6ba05e7f6d85c66d123db96c0cf3c"
+    },
+    {
+      "code": "8.5.6",
+      "path": "/armenia-driving-course/images/signs/8.5.6.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_8.5.2.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Сохранён лицензированный календарный символ; время адаптировано к официальному армянскому примеру8.30-17.30.",
+      "sha256": "b5d352b4eb091b0d16b87f7280ab3a3923b9feb25d346155c1d7c53e4b153b99"
+    },
+    {
+      "code": "8.5.7",
+      "path": "/armenia-driving-course/images/signs/8.5.7.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Точно восстановлен читаемый армянский образец: ՈՒՐԲԱԹ / FRIDAY /8.30-9.30.",
+      "sha256": "bf718ecf7dc7f5ecbcc437cfeda9a1640be45715195bfd0a81f3e987571e0109"
+    },
+    {
+      "code": "8.5.8",
+      "path": "/armenia-driving-course/images/signs/8.5.8.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Шестилучевая снежинка с боковыми ответвлениями восстановлена векторной геометрией.",
+      "sha256": "dffaf61be011ef2431d05d6d436f9a7a49e2915f32faba6d4bebea6bad675658"
+    },
+    {
+      "code": "8.16",
+      "path": "/armenia-driving-course/images/signs/8.16.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Контур дождевого облака и капли восстановлены по официальному рисунку.",
+      "sha256": "e8c4fb8855c8eecf4cfb59b51d8d4f5168673b47adc04277c9ba45ad8f05eada"
+    },
+    {
+      "code": "8.12",
+      "path": "/armenia-driving-course/images/signs/8.12.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Восстановлены фронтальный автомобиль и разрушающийся понижающийся край обочины.",
+      "sha256": "b5a6e55738479e760d9515b41238faf746e1a4517a5da8f03b6f03a781f7fa5f"
+    },
+    {
+      "code": "8.6.1",
+      "path": "/armenia-driving-course/images/signs/8.6.1.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Векторная реконструкция отдельного официального варианта. Сохранены вид спереди или сбоку, ориентация кузова и нижний/верхний уровень каждого колеса относительно бордюра; соседние варианты не объединены.",
+      "sha256": "6378bc89bd1c1db6ebd9621ccf4013ff41468c088c6a005b4f4573de1f33113d"
+    },
+    {
+      "code": "8.6.2",
+      "path": "/armenia-driving-course/images/signs/8.6.2.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Векторная реконструкция отдельного официального варианта. Сохранены вид спереди или сбоку, ориентация кузова и нижний/верхний уровень каждого колеса относительно бордюра; соседние варианты не объединены.",
+      "sha256": "71d8b10a99d4fbbd62c91cf1b4992b8c47aa47ac9600307adeb8f1ba91bf238d"
+    },
+    {
+      "code": "8.6.3",
+      "path": "/armenia-driving-course/images/signs/8.6.3.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Векторная реконструкция отдельного официального варианта. Сохранены вид спереди или сбоку, ориентация кузова и нижний/верхний уровень каждого колеса относительно бордюра; соседние варианты не объединены.",
+      "sha256": "8cc4a4110f78a8bf2d41a55d5191d0e74a4be56a704e13d8ad5d21a7d546e44d"
+    },
+    {
+      "code": "8.6.4",
+      "path": "/armenia-driving-course/images/signs/8.6.4.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Векторная реконструкция отдельного официального варианта. Сохранены вид спереди или сбоку, ориентация кузова и нижний/верхний уровень каждого колеса относительно бордюра; соседние варианты не объединены. Для ясного различения носа и кормы восстановлен асимметричный официальный профиль: длинный низкий капот и короткая высокая задняя часть. Положение осей, колёс и бордюра сохранено.",
+      "sha256": "f3a43ec79b7ef0876a1ad881066854268444463228eecf4c96605c72396ecc32"
+    },
+    {
+      "code": "8.6.5",
+      "path": "/armenia-driving-course/images/signs/8.6.5.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Векторная реконструкция отдельного официального варианта. Сохранены вид спереди или сбоку, ориентация кузова и нижний/верхний уровень каждого колеса относительно бордюра; соседние варианты не объединены. Для ясного различения носа и кормы восстановлен асимметричный официальный профиль: длинный низкий капот и короткая высокая задняя часть. Положение осей, колёс и бордюра сохранено.",
+      "sha256": "490454ba02c5f4af84398b6b8114aee83dfa6d1ad691f7c493d1fc83793873b9"
+    },
+    {
+      "code": "8.6.6",
+      "path": "/armenia-driving-course/images/signs/8.6.6.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Векторная реконструкция отдельного официального варианта. Сохранены вид спереди или сбоку, ориентация кузова и нижний/верхний уровень каждого колеса относительно бордюра; соседние варианты не объединены. Для ясного различения носа и кормы восстановлен асимметричный официальный профиль: длинный низкий капот и короткая высокая задняя часть. Положение осей, колёс и бордюра сохранено.",
+      "sha256": "10562373d9cbdb7632b6b5416a4c77152de4f03543bbbb31d7c5dac41f5afff1"
+    },
+    {
+      "code": "8.6.7",
+      "path": "/armenia-driving-course/images/signs/8.6.7.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Векторная реконструкция отдельного официального варианта. Сохранены вид спереди или сбоку, ориентация кузова и нижний/верхний уровень каждого колеса относительно бордюра; соседние варианты не объединены. Для ясного различения носа и кормы восстановлен асимметричный официальный профиль: длинный низкий капот и короткая высокая задняя часть. Положение осей, колёс и бордюра сохранено.",
+      "sha256": "16c70675b66395146363f1f1fb01c2b936be4f39f3277c1066f7983c0f99aec2"
+    },
+    {
+      "code": "8.6.8",
+      "path": "/armenia-driving-course/images/signs/8.6.8.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Векторная реконструкция отдельного официального варианта. Сохранены вид спереди или сбоку, ориентация кузова и нижний/верхний уровень каждого колеса относительно бордюра; соседние варианты не объединены. Для ясного различения носа и кормы восстановлен асимметричный официальный профиль: длинный низкий капот и короткая высокая задняя часть. Положение осей, колёс и бордюра сохранено.",
+      "sha256": "c4191b5df30303226e7d02c8e352479219bc7b46ecf049ca92abdcce7bbec54d"
+    },
+    {
+      "code": "8.6.9",
+      "path": "/armenia-driving-course/images/signs/8.6.9.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Векторная реконструкция отдельного официального варианта. Сохранены вид спереди или сбоку, ориентация кузова и нижний/верхний уровень каждого колеса относительно бордюра; соседние варианты не объединены. Для ясного различения носа и кормы восстановлен асимметричный официальный профиль: длинный низкий капот и короткая высокая задняя часть. Положение осей, колёс и бордюра сохранено.",
+      "sha256": "08c78bfb50eafb7b0d83de6f67b5d4c475f22eb9c4cbfad952d4b18d9a37faac"
+    },
+    {
+      "code": "8.7",
+      "path": "/armenia-driving-course/images/signs/8.7.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Восстановлены автомобиль, облако выхлопа и красное перечёркивание, отличающие запрет работающего двигателя от других табличек.",
+      "sha256": "88b21ec7759f0e4d45149f739c7f7b6c6f18e9ababf858f63d9d7d46e22643e2"
+    },
+    {
+      "code": "8.8",
+      "path": "/armenia-driving-course/images/signs/8.8.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Восстановлены три перекрывающиеся монеты с официальными примерами10,15,20.",
+      "sha256": "e708290184565baf7a110a55708d8cf483a8488189bc1486088f000faedc3bb2"
+    },
+    {
+      "code": "8.9",
+      "path": "/armenia-driving-course/images/signs/8.9.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Восстановлен армянский пример ограничения продолжительности:30 минут, без интервала часов.",
+      "sha256": "f036cb935b1267cbe388d87116841d80233d65e460ad27556578404bb8c0f567"
+    },
+    {
+      "code": "8.10",
+      "path": "/armenia-driving-course/images/signs/8.10.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Восстановлены автомобиль и устройство для осмотра снизу с арочной опорой.",
+      "sha256": "fefcb95266abc51dd8e6b5bc322cd88ef965403a3375fbe7770f13febbb81b01"
+    },
+    {
+      "code": "8.11",
+      "path": "/armenia-driving-course/images/signs/8.11.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Восстановлен официальный пример15 тонн с армянской единицей; прямоугольная форма отличает табличку от ограничения фактической массы.",
+      "sha256": "5f38cce7090a4eb8786d0bec19bb489488eee3fb02251630c92870e5431eb2c4"
+    },
+    {
+      "code": "8.13",
+      "path": "/armenia-driving-course/images/signs/8.13.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_8.13.svg",
+      "author": "Nikolaev_ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Проверены форма, направление и символ по армянскому официальному листу. Рисунок сохранён; удалены редакторские метаданные и добавлен viewBox.",
+      "sha256": "294de11101323f9bb882e8bdf50fe29e813f7fb3fb7f0db69877d0c490506e55"
+    },
+    {
+      "code": "8.14",
+      "path": "/armenia-driving-course/images/signs/8.14.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Восстановлена широкая стрелка вниз на горизонтальной табличке, отличная от узкой таблички конца запрета.",
+      "sha256": "65ea621ded46ad55e848ce6398a09db62bf66bd87a87e210018255bd96f842e0"
+    },
+    {
+      "code": "8.15",
+      "path": "/armenia-driving-course/images/signs/8.15.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Восстановлены два тёмных круглых стекла очков, перемычка и дужки.",
+      "sha256": "6d5ac2c1f250bb37bb0309c78380c04074a1acc845340697a083204715e8e0ad"
+    },
+    {
+      "code": "8.17",
+      "path": "/armenia-driving-course/images/signs/8.17.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Символ человека в кресле-коляске восстановлен геометрией с круглым колесом и головой.",
+      "sha256": "112f964cf76a438b7d839856e9433939de24e13ad55c0b2c68d1bf7e86a6cf64"
+    },
+    {
+      "code": "8.18",
+      "path": "/armenia-driving-course/images/signs/8.18.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Сохранён символ кресла-коляски; красная диагональ передаёт исключение, а не выделенную стоянку.",
+      "sha256": "092a0408ef96c8c7d60dd8b990218de7c27b0055fad2622e123b89221e0e668f"
+    },
+    {
+      "code": "8.19",
+      "path": "/armenia-driving-course/images/signs/8.19.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Восстановлена оранжевая табличка с примером классов4.3,6,7. Нечёткая мелкая надпись заменена читаемой армянской формулировкой о классах опасного груза из нормы.",
+      "sha256": "c69ce14bc4da5f27d3c4f30327fb1750e5cc2d546a41623ba17e9d8a7694ad5a"
+    },
+    {
+      "code": "8.20.1",
+      "path": "/armenia-driving-course/images/signs/8.20.1.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Армянская текстовая табличка: сохранено число2 сближенных осей, графических осей не добавлено. Использована читаемая формулировка по тексту нормы.",
+      "sha256": "bf75063ded509e1cc7711cda4ced4076bb682f81dd7b1b8293e3e5f87f9c81ae"
+    },
+    {
+      "code": "8.20.2",
+      "path": "/armenia-driving-course/images/signs/8.20.2.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Армянская текстовая табличка: сохранено число3 сближенных осей, графических осей не добавлено. Использована читаемая формулировка по тексту нормы.",
+      "sha256": "53ce6880a857c3d623164bbd07ed60f20736558a8490a611b6382ad40db23ae5"
+    },
+    {
+      "code": "8.22.1",
+      "path": "/armenia-driving-course/images/signs/8.22.1.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Восстановлены красно-белая вертикальная панель и направление четырёх наклонных полос или четырёх шевронов по официальному образцу.",
+      "sha256": "962abcbe37ca85f527a0ca46428c305e541ea46f54b4727fb4d52ed3baece629"
+    },
+    {
+      "code": "8.22.2",
+      "path": "/armenia-driving-course/images/signs/8.22.2.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Восстановлены красно-белая вертикальная панель и направление четырёх наклонных полос или четырёх шевронов по официальному образцу.",
+      "sha256": "e25b741200491fc9936a0de40f3fc9e2ff64ff6626712d233a73ede560e90505"
+    },
+    {
+      "code": "8.22.3",
+      "path": "/armenia-driving-course/images/signs/8.22.3.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Восстановлены красно-белая вертикальная панель и направление четырёх наклонных полос или четырёх шевронов по официальному образцу.",
+      "sha256": "da3035dd46de4106e8ee340706a327ea72b8cdaef84093f11680122b1d82f937"
+    },
+    {
+      "code": "8.21.1",
+      "path": "/armenia-driving-course/images/signs/8.21.1.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Восстановлены только плюс и двуязычная надпись метро. Легковой автомобиль и отдельная букваM не добавлялись.",
+      "sha256": "8c96f072eb8d2fcafd93adcfa8f9ef89dfcbb8998c7f96298acbe3c50b65a3e5"
+    },
+    {
+      "code": "8.21.2",
+      "path": "/armenia-driving-course/images/signs/8.21.2.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RU_road_sign_8.4.4.svg",
+      "author": "Nikolaev ec06ffa5",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Сохранён лицензированный силуэт автобуса, добавлен плюс по армянскому образцу; легковой автомобиль не добавлялся.",
+      "sha256": "7fbd8aeba4aa323723f376582a913dd63effa29d5380cb46008f3c8de7ec4b84"
+    },
+    {
+      "code": "8.21.3",
+      "path": "/armenia-driving-course/images/signs/8.21.3.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Восстановлены плюс и силуэт трамвая с ромбом токоприёмника; легкового автомобиля нет.",
+      "sha256": "d870d6fa3584d7d57108d9c97499c063360a3fae77a08e29986b274941d4b4ab"
+    },
+    {
+      "code": "8.26",
+      "path": "/armenia-driving-course/images/signs/8.26.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Нечёткий текст официального образца восстановлен читаемой армянской формулировкой из описания этого знака в ARLIS. Сохранены назначение, тип транспорта и наличие слова «ԲԱՑԻ» у исключения. Переносы строк адаптированы.",
+      "sha256": "42690fee839625e622ff7ac92cf333e4c0d698307b833c1d5c62ea841f6189d4"
+    },
+    {
+      "code": "8.27",
+      "path": "/armenia-driving-course/images/signs/8.27.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Нечёткий текст официального образца восстановлен читаемой армянской формулировкой из описания этого знака в ARLIS. Сохранены назначение, тип транспорта и наличие слова «ԲԱՑԻ» у исключения. Переносы строк адаптированы.",
+      "sha256": "16197d572b0a60eb0385c7f8c6dd154ba5d636512e5782499bfa32df93b2c815"
+    },
+    {
+      "code": "8.23",
+      "path": "/armenia-driving-course/images/signs/8.23.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Восстановлен эвакуатор с кабиной, стрелой и отдельным поднимаемым легковым автомобилем; символ не заменён обычным грузовиком.",
+      "sha256": "a84217aa46e67799c4f8e8a5ac08b7f57196a006b3ff542a7f3bb624887318cc"
+    },
+    {
+      "code": "8.24",
+      "path": "/armenia-driving-course/images/signs/8.24.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Нечёткий текст официального образца восстановлен читаемой армянской формулировкой из описания этого знака в ARLIS. Сохранены назначение, тип транспорта и наличие слова «ԲԱՑԻ» у исключения. Переносы строк адаптированы.",
+      "sha256": "7121da1b3cfcd686c300e9d931fe238d1a6890fefae6922dd22a57859a26cb9f"
+    },
+    {
+      "code": "8.25",
+      "path": "/armenia-driving-course/images/signs/8.25.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Нечёткий текст официального образца восстановлен читаемой армянской формулировкой из описания этого знака в ARLIS. Сохранены назначение, тип транспорта и наличие слова «ԲԱՑԻ» у исключения. Переносы строк адаптированы.",
+      "sha256": "a285e6f142aa515e9a01ebd330c12cd424a7eb6bfff7e3310060d08ee8f56424"
+    },
+    {
+      "code": "8.28",
+      "path": "/armenia-driving-course/images/signs/8.28.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Нечёткий текст официального образца восстановлен читаемой армянской формулировкой из описания этого знака в ARLIS. Сохранены назначение, тип транспорта и наличие слова «ԲԱՑԻ» у исключения. Переносы строк адаптированы.",
+      "sha256": "6aa91afb08e8951cd3be8e84deca5f67c2d3c368749d776932bce6a3c50f5164"
+    },
+    {
+      "code": "8.29",
+      "path": "/armenia-driving-course/images/signs/8.29.svg",
+      "sourcePage": "https://www.arlis.am/hy/acts/212587",
+      "author": "Векторная реконструкция по официальному образцу",
+      "license": "PD-AM-exempt (официальный документ)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-AM-exempt",
+      "changes": "Восстановлены электрическая вилка с двумя контактами и короткий изогнутый шнур, направленные как на армянской табличке.",
+      "sha256": "9cb2d2535caa1769b694c4659e3ff45a461540adb8f8e51f94c12401bfe65fb6"
+    }
+  ]
+}

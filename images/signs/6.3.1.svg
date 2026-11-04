@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700" id="svg2" version="1.1" viewBox="0 0 700 700">
+  <title id="title14100">6.3.1 Место для разворота</title>
+  <defs id="defs4" />
+  <g id="layer1" transform="translate(0,-352.36218)">
+    <rect ry="45" rx="45" style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1" id="rect7667" width="700" height="700" x="0" y="352.36218" />
+    <rect y="353.36218" x="1" height="698" width="698" id="rect7101" style="color:#000000;fill:none;stroke:#000000;stroke-width:1.99999988000000010;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1" rx="44" ry="44" />
+    <path style="opacity:1;color:#000000;fill:#17458f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" d="M 45 20 C 31.15 20 20 31.15 20 45 L 20 655 C 20 668.85 31.15 680 45 680 L 443.34375 680 L 443.34375 233.34375 C 443.34375 181.79715 401.54658 140 350 140 C 298.45342 140 256.65625 181.79715 256.65625 233.34375 L 256.65625 466.65625 L 315 466.65625 L 221.65625 630 L 128.34375 466.65625 L 186.65625 466.65625 L 186.65625 233.34375 C 186.65625 143.13735 259.7935 70 350 70 C 440.2065 70 513.34375 143.13735 513.34375 233.34375 L 513.34375 680 L 655 680 C 668.85 680 680 668.85 680 655 L 680 45 C 680 31.15 668.85 20 655 20 L 45 20 z " transform="translate(0,352.36218)" id="rect9536" />
+  </g>
+</svg>

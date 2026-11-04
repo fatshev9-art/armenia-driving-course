@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" id="svg2" version="1.1" viewBox="0 0 600 300">
+  <title id="title3006">8.5.2 Рабочие дни</title>
+  <defs id="defs4" />
+  <g id="layer1" transform="translate(0,-752.36218)">
+    <rect y="752.36218" x="0" height="300" width="600" id="rect5622" style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" rx="45" ry="45" />
+    <rect y="762.36212" x="10" height="280" width="580" id="rect9537" style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1" rx="35" ry="35" />
+    <path style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" d="m 235.69336,779.16876 -43.74024,43.74028 -23.20312,52.35347 19.21875,19.24809 37.79297,-37.79297 55.01953,55.01953 -78.89648,78.89644 19.24804,19.1895 L 300,930.95591 l 78.86719,78.86719 19.24804,-19.1895 -78.89648,-78.89644 55.01953,-55.01953 37.79297,37.79297 19.21875,-19.24809 -23.20313,-52.35347 -43.74023,-43.74028 -33.80859,33.80859 24.52148,24.52153 L 300,892.51841 244.98047,837.49888 269.50195,812.97735 235.69336,779.16876 z" id="path13258" />
+  </g>
+</svg>

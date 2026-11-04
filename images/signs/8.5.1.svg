@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" id="svg2" version="1.1" viewBox="0 0 600 300">
+  <title id="title3006">8.5.1 Субботние, воскресные и праздничные дни</title>
+  <defs id="defs4" />
+  <g id="layer1" transform="translate(0,-752.36218)">
+    <rect y="752.36218" x="0" height="300" width="600" id="rect5622" style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" rx="45" ry="45" />
+    <rect y="762.36212" x="10" height="280" width="580" id="rect9537" style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1" rx="35" ry="35" />
+    <path style="opacity:1;color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" d="m 300.00003,789.8622 c -10.08257,0 -19.85237,1.35012 -29.15039,3.83789 l 12.74414,80.2441 -63.10548,-51.1523 c -13.77979,13.7698 -24.00098,31.0928 -29.17969,50.4785 l 75.87892,29.0918 -75.87892,29.0918 c 5.17564,19.3888 15.40214,36.7084 29.17969,50.4785 l 63.10548,-51.1523 -12.74414,80.27351 c 9.29522,2.4865 19.07037,3.8086 29.15039,3.8086 10.08257,0 19.85237,-1.3501 29.15039,-3.8379 l -12.74414,-80.24421 63.10547,51.1523 c 13.77979,-13.7697 24.00099,-31.0927 29.1797,-50.4785 l -75.87892,-29.0918 75.87892,-29.0918 c -5.17871,-19.3857 -15.39991,-36.7087 -29.1797,-50.4785 l -63.10547,51.1523 12.74414,-80.2441 c -9.29802,-2.48777 -19.06782,-3.83789 -29.15039,-3.83789 z" id="path14544" />
+  </g>
+</svg>
